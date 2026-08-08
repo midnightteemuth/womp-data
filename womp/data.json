@@ -1,0 +1,1761 @@
+{
+  "version": 2,
+  "publishedAt": 1786084792016,
+  "publishedBy": "midnighttee_",
+  "sourceLogLength": 157,
+  "players": {
+    "okarismatic": {
+      "id": "87574016",
+      "login": "okarismatic",
+      "display": "oKarismatic",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3023e3d-6e21-4146-b256-df0f0409bfa2-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826534895,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786075436939,
+      "firstBloods": 1
+    },
+    "thegoldennadeyt": {
+      "id": "764989024",
+      "login": "thegoldennadeyt",
+      "display": "TheGoldenNadeYT",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/52a6e6eb-c86f-4b40-8754-ae5d4ffc890e-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826534895,
+      "saves": 0,
+      "cheers": 2,
+      "lastSave": null,
+      "lastCheer": 1786067589463,
+      "firstBloods": 0
+    },
+    "evilunicornnymph": {
+      "id": "60158304",
+      "login": "evilunicornnymph",
+      "display": "EvilUnicornNymph",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef178b29-404b-44a9-a2b9-1fb54c455748-profile_image-300x300.jpg",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826534895,
+      "saves": 0,
+      "cheers": 14,
+      "lastSave": null,
+      "lastCheer": 1786084676718,
+      "firstBloods": 1
+    },
+    "djxclassyissue": {
+      "id": "526401596",
+      "login": "djxclassyissue",
+      "display": "djxclassyissue",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ab42f7e-7ec6-48ae-9d81-5aee6beec0c7-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826534896,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1785889187179,
+      "firstBloods": 1
+    },
+    "incidentarchive00": {
+      "id": "142372856",
+      "login": "incidentarchive00",
+      "display": "incidentarchive00",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5c453df0-ad40-419a-b0e2-ec70994b45b7-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1786074629018,
+      "addedAt": 1785826534896,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "wulfslore": {
+      "id": "38337106",
+      "login": "wulfslore",
+      "display": "Wulfslore",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/987458b0-6786-49d0-85c8-4e0ba1e48a85-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826534896,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786074629153,
+      "firstBloods": 0
+    },
+    "echoesofplaytime": {
+      "id": "1427295826",
+      "login": "echoesofplaytime",
+      "display": "EchoesOfPlayTime",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/868a7b8a-db0c-4266-a7e8-9422bc0dccf4-profile_image-300x300.png",
+      "womps": 2,
+      "lastWomp": 1786067787266,
+      "addedAt": 1785826534896,
+      "saves": 0,
+      "cheers": 3,
+      "lastSave": null,
+      "lastCheer": 1785911094587,
+      "firstBloods": 0
+    },
+    "merc_with_the_code": {
+      "id": "1513971656",
+      "login": "merc_with_the_code",
+      "display": "merc_with_the_code",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2a6804b-7361-4a89-90fd-ccad8f9c2813-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826534896,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786067593539,
+      "firstBloods": 0
+    },
+    "silverfoxjams": {
+      "id": "557769527",
+      "login": "silverfoxjams",
+      "display": "silverfoxjams",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9862bbeb-278d-476a-85a2-a2c72792764d-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535343,
+      "saves": 0,
+      "cheers": 3,
+      "lastSave": null,
+      "lastCheer": 1785906381197,
+      "firstBloods": 0
+    },
+    "huntedgatherer": {
+      "id": "99281713",
+      "login": "huntedgatherer",
+      "display": "HuntedGatherer",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7dea1a1-b4dd-4189-a24e-b313e3351645-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535343,
+      "saves": 0,
+      "cheers": 3,
+      "lastSave": null,
+      "lastCheer": 1785906372298,
+      "firstBloods": 0
+    },
+    "thebloodcopy": {
+      "id": "175909653",
+      "login": "thebloodcopy",
+      "display": "TheBloodcopy",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535343,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786080683301,
+      "firstBloods": 0
+    },
+    "radu_r4bv": {
+      "id": "51260040",
+      "login": "radu_r4bv",
+      "display": "radu_r4bv",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/88f23cde-853f-430a-a328-4a88a8d815f4-profile_image-300x300.jpeg",
+      "womps": 1,
+      "lastWomp": 1785907530934,
+      "addedAt": 1785826535343,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "mulds_tv": {
+      "id": "57047964",
+      "login": "mulds_tv",
+      "display": "mulds_tv",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1b8cfc6-acdd-4a8a-9552-e1f19dacd991-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535343,
+      "saves": 0,
+      "cheers": 14,
+      "lastSave": null,
+      "lastCheer": 1786080674911,
+      "firstBloods": 4
+    },
+    "izzyd3adyet": {
+      "id": "959117250",
+      "login": "izzyd3adyet",
+      "display": "izzyd3adyet",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1785914798400,
+      "addedAt": 1785826535343,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "chylddlevanto": {
+      "id": "1491401633",
+      "login": "chylddlevanto",
+      "display": "ChylddLevanto",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b24d8f7-128b-4508-a862-463b9bc0f224-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535343,
+      "saves": 0,
+      "cheers": 9,
+      "lastSave": null,
+      "lastCheer": 1786084661422,
+      "firstBloods": 4
+    },
+    "cr4zyl0v3r1017": {
+      "id": "670707610",
+      "login": "cr4zyl0v3r1017",
+      "display": "cr4zyl0v3r1017",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ddaebaf0-b252-4399-ba25-920e0aa4a9dd-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535343,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1785896933754,
+      "firstBloods": 0
+    },
+    "d_uelnature": {
+      "id": "162125824",
+      "login": "d_uelnature",
+      "display": "D_uelNature",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5101146d-69dc-4b34-83d6-81c31d2ed4bb-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535549,
+      "saves": 0,
+      "cheers": 2,
+      "lastSave": null,
+      "lastCheer": 1786067714454,
+      "firstBloods": 0
+    },
+    "fallenangelaimusic": {
+      "id": "1390339783",
+      "login": "fallenangelaimusic",
+      "display": "fallenangelaimusic",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ebfdd93e-195a-443d-91e9-dbf323cb282b-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1786067723521,
+      "addedAt": 1785826535549,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "mirrorgut": {
+      "id": "1456929412",
+      "login": "mirrorgut",
+      "display": "MirrorGut",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e8e593a-4763-43e2-b646-c5a0462544bc-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1786080715553,
+      "addedAt": 1785826535549,
+      "saves": 0,
+      "cheers": 2,
+      "lastSave": null,
+      "lastCheer": 1786084671629,
+      "firstBloods": 0
+    },
+    "cheddarmunky": {
+      "id": "147150574",
+      "login": "cheddarmunky",
+      "display": "Cheddarmunky",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9166342-87de-4dac-9c4a-f819e838fa1f-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535549,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786070834944,
+      "firstBloods": 0
+    },
+    "captainhindsight420": {
+      "id": "784000459",
+      "login": "captainhindsight420",
+      "display": "CaptainHindsight420",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/15581c98-4b39-42c2-a046-c0d9076cb798-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1785901324007,
+      "addedAt": 1785826535549,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "thegalaxythieves": {
+      "id": "1393373918",
+      "login": "thegalaxythieves",
+      "display": "TheGalaxyThieves",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef7da65c-f709-427b-99ce-3e9253250f21-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535880,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786067708417,
+      "firstBloods": 0
+    },
+    "mycosynthmusic": {
+      "id": "1448585487",
+      "login": "mycosynthmusic",
+      "display": "MycoSynthMusic",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01f44a43-a351-4d3e-853b-3ba7ecb2ed96-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1785908707637,
+      "addedAt": 1785826535880,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "brigieru": {
+      "id": "678990202",
+      "login": "brigieru",
+      "display": "brigieru",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a67d5764-e7fb-47e2-b77f-14bda0d0031e-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1786081889467,
+      "addedAt": 1785826535880,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "meika_rei_official": {
+      "id": "1403825401",
+      "login": "meika_rei_official",
+      "display": "meika_rei_official",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c14dc21-d7bd-4395-9324-927384c8d8c6-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535880,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786074604326,
+      "firstBloods": 1
+    },
+    "mkrool": {
+      "id": "72838037",
+      "login": "mkrool",
+      "display": "Mkrool",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535880,
+      "saves": 0,
+      "cheers": 16,
+      "lastSave": null,
+      "lastCheer": 1786084664704,
+      "firstBloods": 6
+    },
+    "black_bulllet": {
+      "id": "1399823548",
+      "login": "black_bulllet",
+      "display": "black_bulllet",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1785911012515,
+      "addedAt": 1785826535880,
+      "saves": 0,
+      "cheers": 6,
+      "lastSave": null,
+      "lastCheer": 1786070817662,
+      "firstBloods": 0
+    },
+    "ravenhime_official": {
+      "id": "1300778582",
+      "login": "ravenhime_official",
+      "display": "RavenHime_Official",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/cd6d4a09-32bc-4f8b-8299-7461a097b2a5-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535880,
+      "saves": 0,
+      "cheers": 2,
+      "lastSave": null,
+      "lastCheer": 1785907434655,
+      "firstBloods": 0
+    },
+    "rodmachismo": {
+      "id": "1296033176",
+      "login": "rodmachismo",
+      "display": "rodmachismo",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/cee23ddd-2a9a-4c21-ac47-bbd9c6a51781-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535880,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1785910991102,
+      "firstBloods": 0
+    },
+    "fauxprophete": {
+      "id": "1402166382",
+      "login": "fauxprophete",
+      "display": "FauxProphete",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/82298734-3b9f-4b19-a5da-d337a2200744-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1786082002196,
+      "addedAt": 1785826536088,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "zoepie4u": {
+      "id": "78574632",
+      "login": "zoepie4u",
+      "display": "zoepie4u",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536088,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786076795706,
+      "firstBloods": 0
+    },
+    "aerik_18170": {
+      "id": "1285247759",
+      "login": "aerik_18170",
+      "display": "Aerik_18170",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/791f861d-3ee6-4289-94a3-6a3e34f6cbec-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1785914724040,
+      "addedAt": 1785826536417,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "sesinya": {
+      "id": "906608889",
+      "login": "sesinya",
+      "display": "sesinya",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ae103a7-6e76-43ae-9c1d-d9a14afef809-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536417,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1785893528493,
+      "firstBloods": 0
+    },
+    "inge__nl": {
+      "id": "765165026",
+      "login": "inge__nl",
+      "display": "inge__nl",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/26852706-641b-4351-93e9-6a3cbb619579-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536417,
+      "saves": 0,
+      "cheers": 3,
+      "lastSave": null,
+      "lastCheer": 1786084691525,
+      "firstBloods": 0
+    },
+    "shin_981": {
+      "id": "163381475",
+      "login": "shin_981",
+      "display": "Shin_981",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9dbde61-f5ee-4a21-abf0-d38c7e3df583-profile_image-300x300.jpeg",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536417,
+      "saves": 0,
+      "cheers": 3,
+      "lastSave": null,
+      "lastCheer": 1785907432991,
+      "firstBloods": 0
+    },
+    "showtimemommy": {
+      "id": "792538494",
+      "login": "showtimemommy",
+      "display": "showtimemommy",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536622,
+      "saves": 0,
+      "cheers": 2,
+      "lastSave": null,
+      "lastCheer": 1785911002255,
+      "firstBloods": 0
+    },
+    "algorhythmicsaimusic": {
+      "id": "1388532364",
+      "login": "algorhythmicsaimusic",
+      "display": "AlgorhythmicsAIMusic",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ce01c9d-e748-4ac2-8c62-cd51547d7565-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536622,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786076806173,
+      "firstBloods": 0
+    },
+    "cabears": {
+      "id": "77304427",
+      "login": "cabears",
+      "display": "CaBears",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b0698d1-234f-40da-8ae7-6c133ede34c3-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536622,
+      "saves": 0,
+      "cheers": 3,
+      "lastSave": null,
+      "lastCheer": 1786076792276,
+      "firstBloods": 1
+    },
+    "iamtheeviltwin": {
+      "id": "57580652",
+      "login": "iamtheeviltwin",
+      "display": "iamtheeviltwin",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd3bf6e4-a171-4065-aac5-110758e71922-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536622,
+      "saves": 0,
+      "cheers": 2,
+      "lastSave": null,
+      "lastCheer": 1785901310373,
+      "firstBloods": 0
+    },
+    "belphegor_plays": {
+      "id": "862603677",
+      "login": "belphegor_plays",
+      "display": "belphegor_plays",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/403b1540-9b6b-4790-a540-9a30ef881fa3-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536823,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1785893080468,
+      "firstBloods": 0
+    },
+    "xwil_sin": {
+      "id": "117115103",
+      "login": "xwil_sin",
+      "display": "xwil_sin",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4e3a4ca-1caf-4560-903b-9e6763007db7-profile_image-300x300.jpeg",
+      "womps": 1,
+      "lastWomp": 1786082494546,
+      "addedAt": 1785826536823,
+      "saves": 0,
+      "cheers": 7,
+      "lastSave": null,
+      "lastCheer": 1785913406077,
+      "firstBloods": 0
+    },
+    "killeen3000": {
+      "id": "108715823",
+      "login": "killeen3000",
+      "display": "killeen3000",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e1ced93-4d03-4be6-8ad0-f37efc3964ca-profile_image-300x300.jpeg",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536823,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1785896910183,
+      "firstBloods": 0
+    },
+    "itsnuvia": {
+      "id": "1362877383",
+      "login": "itsnuvia",
+      "display": "itsnuvia",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/87c3caa7-50ab-44b0-ac7b-3789cf14c9c0-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537029,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786082037269,
+      "firstBloods": 0
+    },
+    "steve_aka_bobbin_mcferry": {
+      "id": "850347342",
+      "login": "steve_aka_bobbin_mcferry",
+      "display": "steve_aka_bobbin_mcferry",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c531579-7444-479c-b53a-bc001d1a54f6-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537029,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1785896944856,
+      "firstBloods": 0
+    },
+    "saintboogiencm": {
+      "id": "1174346017",
+      "login": "saintboogiencm",
+      "display": "saintboogiencm",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8daec68-d8e5-49d2-9b15-5f08d5c8da11-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537029,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1785901359316,
+      "firstBloods": 0
+    },
+    "apositiveeffect": {
+      "id": "778143227",
+      "login": "apositiveeffect",
+      "display": "APositiveEffect",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ef0e05c-5de4-45e8-a423-b5e8ec97a4c0-profile_image-300x300.jpeg",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537029,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1785893559882,
+      "firstBloods": 0
+    },
+    "shs_slayer": {
+      "id": "186481472",
+      "login": "shs_slayer",
+      "display": "Shs_Slayer",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8485242a-e14a-4837-9d68-2f607319fc78-profile_image-300x300.jpeg",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537232,
+      "saves": 0,
+      "cheers": 6,
+      "lastSave": null,
+      "lastCheer": 1786081474309,
+      "firstBloods": 3
+    },
+    "maxoxpower": {
+      "id": "71083276",
+      "login": "maxoxpower",
+      "display": "Maxoxpower",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f382fe1-c3af-43c6-ab1a-f0ddf7ebc96e-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1785907456858,
+      "addedAt": 1785826537232,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "shaineai": {
+      "id": "238244617",
+      "login": "shaineai",
+      "display": "ShaineAI",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7ec5ee98-941e-463c-b51c-eac7b490dc7c-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537548,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786076901157,
+      "firstBloods": 0
+    },
+    "mezandriia": {
+      "id": "1047034603",
+      "login": "mezandriia",
+      "display": "mezandriia",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/320080d8-77e8-4ec9-a89b-627f59414379-profile_image-300x300.jpeg",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537548,
+      "saves": 0,
+      "cheers": 10,
+      "lastSave": null,
+      "lastCheer": 1786080755361,
+      "firstBloods": 1
+    },
+    "astrallounge": {
+      "id": "59477040",
+      "login": "astrallounge",
+      "display": "ASTRAllOUNGE",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7aa4348-bc77-4c0b-87d6-84bdc8951e8e-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537548,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786070984057,
+      "firstBloods": 0
+    },
+    "simbaxp2": {
+      "id": "61180621",
+      "login": "simbaxp2",
+      "display": "SimbaXp2",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/simbaxp2-profile_image-a998f475cbec1016-300x300.jpeg",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537548,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1785893504541,
+      "firstBloods": 0
+    },
+    "gabi974": {
+      "id": "89444073",
+      "login": "gabi974",
+      "display": "Gabi974",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/21e2ff44-3d42-41ef-9a6b-f0eeacf3c9e3-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537548,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786081936503,
+      "firstBloods": 0
+    },
+    "droddbodyscureallelixir": {
+      "id": "211777144",
+      "login": "droddbodyscureallelixir",
+      "display": "DrOddbodysCureAllElixir",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d3f2e72-6935-4f04-9043-d211586f81c8-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537748,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786067549984,
+      "firstBloods": 1
+    },
+    "rachey13x": {
+      "id": "86565648",
+      "login": "rachey13x",
+      "display": "Rachey13x",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fdd1249-8659-4b9f-8f4b-4d2c898190bb-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537748,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1786067592993,
+      "firstBloods": 0
+    },
+    "aicreatorcollective": {
+      "id": "1409938204",
+      "login": "aicreatorcollective",
+      "display": "aicreatorcollective",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01e73c3b-d8d4-4ffd-baab-7fff5444e3e5-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "saves": 0,
+      "lastSave": null,
+      "cheers": 1,
+      "lastCheer": 1785889220957,
+      "firstBloods": 0,
+      "addedAt": 1785889242915
+    },
+    "twistedt_94": {
+      "id": "883318873",
+      "login": "twistedt_94",
+      "display": "twistedt_94",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/764b94a2-a87d-4a0b-8172-f3c987d779ac-profile_image-300x300.jpeg",
+      "womps": 0,
+      "lastWomp": null,
+      "saves": 0,
+      "lastSave": null,
+      "cheers": 1,
+      "lastCheer": 1785893470011,
+      "firstBloods": 0,
+      "addedAt": 1785893495392
+    },
+    "sirensidequest20": {
+      "id": "1526073189",
+      "login": "sirensidequest20",
+      "display": "sirensidequest20",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16b09f85-f678-473a-8f30-d98486a9f185-profile_image-300x300.jpeg",
+      "womps": 0,
+      "lastWomp": null,
+      "saves": 0,
+      "lastSave": null,
+      "cheers": 1,
+      "lastCheer": 1786076803646,
+      "firstBloods": 0,
+      "addedAt": 1786076803646
+    }
+  },
+  "log": [
+    {
+      "t": 1785889187179,
+      "key": "djxclassyissue",
+      "cheer": true,
+      "moment": 1785889187179,
+      "first": true
+    },
+    {
+      "t": 1785889220957,
+      "key": "aicreatorcollective",
+      "cheer": true,
+      "moment": 1785889187179
+    },
+    {
+      "t": 1785889242915,
+      "key": "huntedgatherer",
+      "cheer": true,
+      "moment": 1785889187179
+    },
+    {
+      "t": 1785892629580,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1785892629580,
+      "first": true
+    },
+    {
+      "t": 1785892633223,
+      "key": "shin_981",
+      "cheer": true,
+      "moment": 1785892629580
+    },
+    {
+      "t": 1785892633664,
+      "key": "thegoldennadeyt",
+      "cheer": true,
+      "moment": 1785892629580
+    },
+    {
+      "t": 1785892634315,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1785892629580
+    },
+    {
+      "t": 1785892641196,
+      "key": "iamtheeviltwin",
+      "cheer": true,
+      "moment": 1785892629580
+    },
+    {
+      "t": 1785892642391,
+      "key": "echoesofplaytime",
+      "cheer": true,
+      "moment": 1785892629580
+    },
+    {
+      "t": 1785892643467,
+      "key": "silverfoxjams",
+      "cheer": true,
+      "moment": 1785892629580
+    },
+    {
+      "t": 1785892655725,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1785892629580
+    },
+    {
+      "t": 1785893002954,
+      "key": "shs_slayer",
+      "cheer": true,
+      "moment": 1785893002954,
+      "first": true
+    },
+    {
+      "t": 1785893008020,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1785893002954
+    },
+    {
+      "t": 1785893032357,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1785893002954
+    },
+    {
+      "t": 1785893080468,
+      "key": "belphegor_plays",
+      "cheer": true,
+      "moment": 1785893002954
+    },
+    {
+      "t": 1785893469293,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1785893469293,
+      "first": true
+    },
+    {
+      "t": 1785893470011,
+      "key": "twistedt_94",
+      "cheer": true,
+      "moment": 1785893469293
+    },
+    {
+      "t": 1785893495392,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1785893469293
+    },
+    {
+      "t": 1785893504541,
+      "key": "simbaxp2",
+      "cheer": true,
+      "moment": 1785893469293
+    },
+    {
+      "t": 1785893528493,
+      "key": "sesinya",
+      "cheer": true,
+      "moment": 1785893469293
+    },
+    {
+      "t": 1785893559882,
+      "key": "apositiveeffect",
+      "cheer": true,
+      "moment": 1785893469293
+    },
+    {
+      "t": 1785896894522,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1785896894522,
+      "first": true
+    },
+    {
+      "t": 1785896902550,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1785896894522
+    },
+    {
+      "t": 1785896910183,
+      "key": "killeen3000",
+      "cheer": true,
+      "moment": 1785896894522
+    },
+    {
+      "t": 1785896933754,
+      "key": "cr4zyl0v3r1017",
+      "cheer": true,
+      "moment": 1785896894522
+    },
+    {
+      "t": 1785896944856,
+      "key": "steve_aka_bobbin_mcferry",
+      "cheer": true,
+      "moment": 1785896894522
+    },
+    {
+      "t": 1785901306633,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1785901306633,
+      "first": true
+    },
+    {
+      "t": 1785901307004,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1785901306633
+    },
+    {
+      "t": 1785901307655,
+      "key": "huntedgatherer",
+      "cheer": true,
+      "moment": 1785901306633
+    },
+    {
+      "t": 1785901308238,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1785901306633
+    },
+    {
+      "t": 1785901310373,
+      "key": "iamtheeviltwin",
+      "cheer": true,
+      "moment": 1785901306633
+    },
+    {
+      "t": 1785901310950,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1785901306633
+    },
+    {
+      "t": 1785901317044,
+      "key": "d_uelnature",
+      "cheer": true,
+      "moment": 1785901306633
+    },
+    {
+      "t": 1785901318670,
+      "key": "xwil_sin",
+      "cheer": true,
+      "moment": 1785901306633
+    },
+    {
+      "t": 1785901320929,
+      "key": "silverfoxjams",
+      "cheer": true,
+      "moment": 1785901306633
+    },
+    {
+      "t": 1785901321101,
+      "key": "black_bulllet",
+      "cheer": true,
+      "moment": 1785901306633
+    },
+    {
+      "t": 1785901324007,
+      "key": "captainhindsight420",
+      "delta": 1
+    },
+    {
+      "t": 1785901359316,
+      "key": "saintboogiencm",
+      "cheer": true,
+      "moment": 1785901306633
+    },
+    {
+      "t": 1785906357879,
+      "key": "shs_slayer",
+      "cheer": true,
+      "moment": 1785906357879,
+      "first": true
+    },
+    {
+      "t": 1785906362139,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1785906357879
+    },
+    {
+      "t": 1785906369594,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1785906357879
+    },
+    {
+      "t": 1785906372298,
+      "key": "huntedgatherer",
+      "cheer": true,
+      "moment": 1785906357879
+    },
+    {
+      "t": 1785906372455,
+      "key": "shin_981",
+      "cheer": true,
+      "moment": 1785906357879
+    },
+    {
+      "t": 1785906372508,
+      "key": "xwil_sin",
+      "cheer": true,
+      "moment": 1785906357879
+    },
+    {
+      "t": 1785906377323,
+      "key": "ravenhime_official",
+      "cheer": true,
+      "moment": 1785906357879
+    },
+    {
+      "t": 1785906381197,
+      "key": "silverfoxjams",
+      "cheer": true,
+      "moment": 1785906357879
+    },
+    {
+      "t": 1785906382493,
+      "key": "black_bulllet",
+      "cheer": true,
+      "moment": 1785906357879
+    },
+    {
+      "t": 1785906384384,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1785906357879
+    },
+    {
+      "t": 1785906406248,
+      "key": "mirrorgut",
+      "cheer": true,
+      "moment": 1785906357879
+    },
+    {
+      "t": 1785907423554,
+      "key": "shs_slayer",
+      "cheer": true,
+      "moment": 1785907423554,
+      "first": true
+    },
+    {
+      "t": 1785907428560,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1785907423554
+    },
+    {
+      "t": 1785907432991,
+      "key": "shin_981",
+      "cheer": true,
+      "moment": 1785907423554
+    },
+    {
+      "t": 1785907434655,
+      "key": "ravenhime_official",
+      "cheer": true,
+      "moment": 1785907423554
+    },
+    {
+      "t": 1785907438795,
+      "key": "xwil_sin",
+      "cheer": true,
+      "moment": 1785907423554
+    },
+    {
+      "t": 1785907456858,
+      "key": "maxoxpower",
+      "delta": 1
+    },
+    {
+      "t": 1785907457753,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1785907423554
+    },
+    {
+      "t": 1785907469627,
+      "key": "showtimemommy",
+      "cheer": true,
+      "moment": 1785907423554
+    },
+    {
+      "t": 1785907506827,
+      "key": "black_bulllet",
+      "cheer": true,
+      "moment": 1785907423554
+    },
+    {
+      "t": 1785907530934,
+      "key": "radu_r4bv",
+      "delta": 1
+    },
+    {
+      "t": 1785907591547,
+      "key": "echoesofplaytime",
+      "cheer": true,
+      "moment": 1785907423554
+    },
+    {
+      "t": 1785908032410,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1785908032410,
+      "first": true
+    },
+    {
+      "t": 1785908049814,
+      "key": "xwil_sin",
+      "cheer": true,
+      "moment": 1785908032410
+    },
+    {
+      "t": 1785908064007,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1785908032410
+    },
+    {
+      "t": 1785908064467,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1785908032410
+    },
+    {
+      "t": 1785908091797,
+      "key": "black_bulllet",
+      "cheer": true,
+      "moment": 1785908032410
+    },
+    {
+      "t": 1785908122737,
+      "key": "shs_slayer",
+      "cheer": true,
+      "moment": 1785908032410
+    },
+    {
+      "t": 1785908690268,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1785908690268,
+      "first": true
+    },
+    {
+      "t": 1785908694889,
+      "key": "shs_slayer",
+      "cheer": true,
+      "moment": 1785908690268
+    },
+    {
+      "t": 1785908697390,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1785908690268
+    },
+    {
+      "t": 1785908701828,
+      "key": "xwil_sin",
+      "cheer": true,
+      "moment": 1785908690268
+    },
+    {
+      "t": 1785908707637,
+      "key": "mycosynthmusic",
+      "delta": 1
+    },
+    {
+      "t": 1785910967277,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1785910967277,
+      "first": true
+    },
+    {
+      "t": 1785910984838,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1785910967277
+    },
+    {
+      "t": 1785910991102,
+      "key": "rodmachismo",
+      "cheer": true,
+      "moment": 1785910967277
+    },
+    {
+      "t": 1785910992825,
+      "key": "xwil_sin",
+      "cheer": true,
+      "moment": 1785910967277
+    },
+    {
+      "t": 1785911002255,
+      "key": "showtimemommy",
+      "cheer": true,
+      "moment": 1785910967277
+    },
+    {
+      "t": 1785911012515,
+      "key": "black_bulllet",
+      "delta": 1
+    },
+    {
+      "t": 1785911094587,
+      "key": "echoesofplaytime",
+      "cheer": true,
+      "moment": 1785910967277
+    },
+    {
+      "t": 1785913401049,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1785913401049,
+      "first": true
+    },
+    {
+      "t": 1785913406077,
+      "key": "xwil_sin",
+      "cheer": true,
+      "moment": 1785913401049
+    },
+    {
+      "t": 1785913422084,
+      "key": "cabears",
+      "cheer": true,
+      "moment": 1785913401049
+    },
+    {
+      "t": 1785913432338,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1785913401049
+    },
+    {
+      "t": 1785913456844,
+      "key": "echoesofplaytime",
+      "delta": 1
+    },
+    {
+      "t": 1785914724040,
+      "key": "aerik_18170",
+      "delta": 1
+    },
+    {
+      "t": 1785914738374,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1785914544040,
+      "first": true
+    },
+    {
+      "t": 1785914798400,
+      "key": "izzyd3adyet",
+      "delta": 1
+    },
+    {
+      "t": 1786067549984,
+      "key": "droddbodyscureallelixir",
+      "cheer": true,
+      "moment": 1786067549984,
+      "first": true
+    },
+    {
+      "t": 1786067589463,
+      "key": "thegoldennadeyt",
+      "cheer": true,
+      "moment": 1786067549984
+    },
+    {
+      "t": 1786067592993,
+      "key": "rachey13x",
+      "cheer": true,
+      "moment": 1786067549984
+    },
+    {
+      "t": 1786067593088,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1786067549984
+    },
+    {
+      "t": 1786067593539,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1786067549984
+    },
+    {
+      "t": 1786067596928,
+      "key": "black_bulllet",
+      "cheer": true,
+      "moment": 1786067549984
+    },
+    {
+      "t": 1786067636953,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1786067549984
+    },
+    {
+      "t": 1786067708417,
+      "key": "thegalaxythieves",
+      "cheer": true,
+      "moment": 1786067549984
+    },
+    {
+      "t": 1786067714454,
+      "key": "d_uelnature",
+      "cheer": true,
+      "moment": 1786067549984
+    },
+    {
+      "t": 1786067723521,
+      "key": "fallenangelaimusic",
+      "delta": 1
+    },
+    {
+      "t": 1786067787266,
+      "key": "echoesofplaytime",
+      "delta": 1
+    },
+    {
+      "t": 1786070814799,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1786070814799,
+      "first": true
+    },
+    {
+      "t": 1786070817662,
+      "key": "black_bulllet",
+      "cheer": true,
+      "moment": 1786070814799
+    },
+    {
+      "t": 1786070834944,
+      "key": "cheddarmunky",
+      "cheer": true,
+      "moment": 1786070814799
+    },
+    {
+      "t": 1786070984057,
+      "key": "astrallounge",
+      "cheer": true,
+      "moment": 1786070814799
+    },
+    {
+      "t": 1786074604326,
+      "key": "meika_rei_official",
+      "cheer": true,
+      "moment": 1786074604326,
+      "first": true
+    },
+    {
+      "t": 1786074608752,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1786074604326
+    },
+    {
+      "t": 1786074614055,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1786074604326
+    },
+    {
+      "t": 1786074617121,
+      "key": "cabears",
+      "cheer": true,
+      "moment": 1786074604326
+    },
+    {
+      "t": 1786074625193,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1786074604326
+    },
+    {
+      "t": 1786074629018,
+      "key": "incidentarchive00",
+      "delta": 1
+    },
+    {
+      "t": 1786074629153,
+      "key": "wulfslore",
+      "cheer": true,
+      "moment": 1786074604326
+    },
+    {
+      "t": 1786074631149,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1786074604326
+    },
+    {
+      "t": 1786075436939,
+      "key": "okarismatic",
+      "cheer": true,
+      "moment": 1786075436939,
+      "first": true
+    },
+    {
+      "t": 1786075450900,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1786075436939
+    },
+    {
+      "t": 1786075455434,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1786075436939
+    },
+    {
+      "t": 1786075471371,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1786075436939
+    },
+    {
+      "t": 1786076792276,
+      "key": "cabears",
+      "cheer": true,
+      "moment": 1786076792276,
+      "first": true
+    },
+    {
+      "t": 1786076795706,
+      "key": "zoepie4u",
+      "cheer": true,
+      "moment": 1786076792276
+    },
+    {
+      "t": 1786076795852,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1786076792276
+    },
+    {
+      "t": 1786076795888,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1786076792276
+    },
+    {
+      "t": 1786076798195,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1786076792276
+    },
+    {
+      "t": 1786076801224,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1786076792276
+    },
+    {
+      "t": 1786076803646,
+      "key": "sirensidequest20",
+      "cheer": true,
+      "moment": 1786076792276
+    },
+    {
+      "t": 1786076806173,
+      "key": "algorhythmicsaimusic",
+      "cheer": true,
+      "moment": 1786076792276
+    },
+    {
+      "t": 1786076901157,
+      "key": "shaineai",
+      "cheer": true,
+      "moment": 1786076792276
+    },
+    {
+      "t": 1786079358157,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1786079358157,
+      "first": true
+    },
+    {
+      "t": 1786079359646,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1786079358157
+    },
+    {
+      "t": 1786079364428,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1786079358157
+    },
+    {
+      "t": 1786079375422,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1786079358157
+    },
+    {
+      "t": 1786080671469,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1786080671469,
+      "first": true
+    },
+    {
+      "t": 1786080673003,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1786080671469
+    },
+    {
+      "t": 1786080674911,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1786080671469
+    },
+    {
+      "t": 1786080683301,
+      "key": "thebloodcopy",
+      "cheer": true,
+      "moment": 1786080671469
+    },
+    {
+      "t": 1786080695619,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1786080671469
+    },
+    {
+      "t": 1786080715553,
+      "key": "mirrorgut",
+      "delta": 1
+    },
+    {
+      "t": 1786080755361,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1786080671469
+    },
+    {
+      "t": 1786081458020,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1786081458020,
+      "first": true
+    },
+    {
+      "t": 1786081461009,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1786081458020
+    },
+    {
+      "t": 1786081474309,
+      "key": "shs_slayer",
+      "cheer": true,
+      "moment": 1786081458020
+    },
+    {
+      "t": 1786081511391,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1786081458020
+    },
+    {
+      "t": 1786081889467,
+      "key": "brigieru",
+      "delta": 1
+    },
+    {
+      "t": 1786081868496,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1786081709467,
+      "first": true
+    },
+    {
+      "t": 1786081872188,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1786081709467
+    },
+    {
+      "t": 1786081890581,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1786081709467
+    },
+    {
+      "t": 1786081936503,
+      "key": "gabi974",
+      "cheer": true,
+      "moment": 1786081709467
+    },
+    {
+      "t": 1786082002196,
+      "key": "fauxprophete",
+      "delta": 1
+    },
+    {
+      "t": 1786082007244,
+      "key": "inge__nl",
+      "cheer": true,
+      "moment": 1786081709467
+    },
+    {
+      "t": 1786082037269,
+      "key": "itsnuvia",
+      "cheer": true,
+      "moment": 1786081709467
+    },
+    {
+      "t": 1786082440365,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1786082440365,
+      "first": true
+    },
+    {
+      "t": 1786082444404,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1786082440365
+    },
+    {
+      "t": 1786082453898,
+      "key": "inge__nl",
+      "cheer": true,
+      "moment": 1786082440365
+    },
+    {
+      "t": 1786082486356,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1786082440365
+    },
+    {
+      "t": 1786082494546,
+      "key": "xwil_sin",
+      "delta": 1
+    },
+    {
+      "t": 1786084661422,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1786084661422,
+      "first": true
+    },
+    {
+      "t": 1786084664704,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1786084661422
+    },
+    {
+      "t": 1786084671629,
+      "key": "mirrorgut",
+      "cheer": true,
+      "moment": 1786084661422
+    },
+    {
+      "t": 1786084676718,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1786084661422
+    },
+    {
+      "t": 1786084691525,
+      "key": "inge__nl",
+      "cheer": true,
+      "moment": 1786084661422
+    }
+  ]
+}
