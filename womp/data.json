@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787106427605,
+  "publishedAt": 1787108669832,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 319,
+  "sourceLogLength": 326,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -251,9 +251,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 30,
+      "cheers": 31,
       "lastSave": null,
-      "lastCheer": 1787105947093,
+      "lastCheer": 1787108272017,
       "firstBloods": 7
     },
     "izzyd3adyet": {
@@ -279,9 +279,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 24,
+      "cheers": 25,
       "lastSave": null,
-      "lastCheer": 1787105930705,
+      "lastCheer": 1787108264825,
       "firstBloods": 8
     },
     "danger__danger": {
@@ -447,10 +447,10 @@
       "lastWomp": 1786826697307,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 9,
+      "cheers": 10,
       "lastSave": null,
-      "lastCheer": 1787105929398,
-      "firstBloods": 6
+      "lastCheer": 1787108263810,
+      "firstBloods": 7
     },
     "mycosynthmusic": {
       "id": "1448585487",
@@ -769,9 +769,9 @@
       "lastWomp": null,
       "addedAt": 1785826536622,
       "saves": 0,
-      "cheers": 5,
+      "cheers": 6,
       "lastSave": null,
-      "lastCheer": 1787105949454,
+      "lastCheer": 1787108280247,
       "firstBloods": 0
     },
     "mainrecords": {
@@ -856,6 +856,20 @@
       "cheers": 3,
       "lastSave": null,
       "lastCheer": 1786845665280,
+      "firstBloods": 0
+    },
+    "syntaxerror22": {
+      "id": "46230130",
+      "login": "syntaxerror22",
+      "display": "syntaxerror22",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/syntaxerror22-profile_image-db25904271fbf5f7-300x300.jpeg",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536823,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1787108299484,
       "firstBloods": 0
     },
     "killeen3000": {
@@ -1077,9 +1091,9 @@
       "lastWomp": null,
       "addedAt": 1785826537548,
       "saves": 0,
-      "cheers": 3,
+      "cheers": 4,
       "lastSave": null,
-      "lastCheer": 1786839484040,
+      "lastCheer": 1787108294160,
       "firstBloods": 0
     },
     "aidiyaimusicguy": {
@@ -1300,8 +1314,8 @@
       "womps": 0,
       "lastWomp": null,
       "addedAt": 1787097544548,
-      "cheers": 2,
-      "lastCheer": 1787102911324
+      "cheers": 3,
+      "lastCheer": 1787108291889
     }
   },
   "log": [
@@ -3219,6 +3233,49 @@
       "key": "killeen3000",
       "cheer": true,
       "moment": 1787105929398
+    },
+    {
+      "t": 1787108263810,
+      "key": "nebelheim",
+      "cheer": true,
+      "moment": 1787108263810,
+      "first": true
+    },
+    {
+      "t": 1787108264825,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1787108263810
+    },
+    {
+      "t": 1787108272017,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1787108263810
+    },
+    {
+      "t": 1787108280247,
+      "key": "iamtheeviltwin",
+      "cheer": true,
+      "moment": 1787108263810
+    },
+    {
+      "t": 1787108291889,
+      "key": "finsterprime",
+      "cheer": true,
+      "moment": 1787108263810
+    },
+    {
+      "t": 1787108294160,
+      "key": "diggermc",
+      "cheer": true,
+      "moment": 1787108263810
+    },
+    {
+      "t": 1787108299484,
+      "key": "syntaxerror22",
+      "cheer": true,
+      "moment": 1787108263810
     }
   ]
 }
