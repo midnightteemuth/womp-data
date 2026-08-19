@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787114504337,
+  "publishedAt": 1787117871577,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 335,
+  "sourceLogLength": 338,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -611,8 +611,8 @@
       "login": "deciduouszeus",
       "display": "DeciduousZeus",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/460fae51-5717-4406-9fcb-1ed44abfd330-profile_image-300x300.jpg",
-      "womps": 2,
-      "lastWomp": 1787102942093,
+      "womps": 3,
+      "lastWomp": 1787117850661,
       "addedAt": 1785826535880,
       "saves": 0,
       "cheers": 2,
@@ -853,10 +853,10 @@
       "lastWomp": 1786082494546,
       "addedAt": 1785826536823,
       "saves": 0,
-      "cheers": 18,
+      "cheers": 19,
       "lastSave": null,
-      "lastCheer": 1787114375054,
-      "firstBloods": 0
+      "lastCheer": 1787117833551,
+      "firstBloods": 1
     },
     "jp_asher": {
       "id": "1304052456",
@@ -1119,9 +1119,9 @@
       "lastWomp": null,
       "addedAt": 1785826537548,
       "saves": 0,
-      "cheers": 5,
+      "cheers": 6,
       "lastSave": null,
-      "lastCheer": 1787114391902,
+      "lastCheer": 1787117841220,
       "firstBloods": 0
     },
     "aidiyaimusicguy": {
@@ -3359,6 +3359,24 @@
       "key": "illybeans",
       "cheer": true,
       "moment": 1787114362715
+    },
+    {
+      "t": 1787117850661,
+      "key": "deciduouszeus",
+      "delta": 1
+    },
+    {
+      "t": 1787117833551,
+      "key": "xwil_sin",
+      "cheer": true,
+      "moment": 1787117670661,
+      "first": true
+    },
+    {
+      "t": 1787117841220,
+      "key": "diggermc",
+      "cheer": true,
+      "moment": 1787117670661
     }
   ]
 }
