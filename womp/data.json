@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787117871577,
+  "publishedAt": 1787118423872,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 338,
+  "sourceLogLength": 344,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -251,10 +251,10 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 32,
+      "cheers": 33,
       "lastSave": null,
-      "lastCheer": 1787114362715,
-      "firstBloods": 8
+      "lastCheer": 1787118245446,
+      "firstBloods": 9
     },
     "izzyd3adyet": {
       "id": "959117250",
@@ -853,9 +853,9 @@
       "lastWomp": 1786082494546,
       "addedAt": 1785826536823,
       "saves": 0,
-      "cheers": 19,
+      "cheers": 20,
       "lastSave": null,
-      "lastCheer": 1787117833551,
+      "lastCheer": 1787118246629,
       "firstBloods": 1
     },
     "jp_asher": {
@@ -895,9 +895,9 @@
       "lastWomp": null,
       "addedAt": 1785826536823,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 4,
       "lastSave": null,
-      "lastCheer": 1787114420349,
+      "lastCheer": 1787118280802,
       "firstBloods": 0
     },
     "killeen3000": {
@@ -1119,9 +1119,9 @@
       "lastWomp": null,
       "addedAt": 1785826537548,
       "saves": 0,
-      "cheers": 6,
+      "cheers": 7,
       "lastSave": null,
-      "lastCheer": 1787117841220,
+      "lastCheer": 1787118258132,
       "firstBloods": 0
     },
     "aidiyaimusicguy": {
@@ -1157,8 +1157,8 @@
       "login": "d_normous",
       "display": "d_normous",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc64c7ca-f337-47f9-b8bf-a16f2dd7d1fb-profile_image-300x300.png",
-      "womps": 1,
-      "lastWomp": 1787103959930,
+      "womps": 2,
+      "lastWomp": 1787118262178,
       "addedAt": 1785826537548,
       "saves": 0,
       "cheers": 0,
@@ -3377,6 +3377,42 @@
       "key": "diggermc",
       "cheer": true,
       "moment": 1787117670661
+    },
+    {
+      "t": 1787117870431,
+      "key": "syntaxerror22",
+      "cheer": true,
+      "moment": 1787117670661
+    },
+    {
+      "t": 1787118245446,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1787118245446,
+      "first": true
+    },
+    {
+      "t": 1787118246629,
+      "key": "xwil_sin",
+      "cheer": true,
+      "moment": 1787118245446
+    },
+    {
+      "t": 1787118258132,
+      "key": "diggermc",
+      "cheer": true,
+      "moment": 1787118245446
+    },
+    {
+      "t": 1787118262178,
+      "key": "d_normous",
+      "delta": 1
+    },
+    {
+      "t": 1787118280802,
+      "key": "syntaxerror22",
+      "cheer": true,
+      "moment": 1787118245446
     }
   ]
 }
