@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787118423872,
+  "publishedAt": 1787285709221,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 344,
+  "sourceLogLength": 347,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -205,8 +205,8 @@
       "login": "huntedgatherer",
       "display": "HuntedGatherer",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7dea1a1-b4dd-4189-a24e-b313e3351645-profile_image-300x300.png",
-      "womps": 0,
-      "lastWomp": null,
+      "womps": 1,
+      "lastWomp": 1787285700385,
       "addedAt": 1785826535343,
       "saves": 0,
       "cheers": 3,
@@ -422,6 +422,20 @@
       "cheers": 1,
       "lastSave": null,
       "lastCheer": 1787103937537,
+      "firstBloods": 0
+    },
+    "brokenwagon": {
+      "id": "112165274",
+      "login": "brokenwagon",
+      "display": "brokenwagon",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1787119016217,
+      "addedAt": 1785826535549,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
       "firstBloods": 0
     },
     "oakwood_the_stranger": {
@@ -1152,6 +1166,20 @@
       "lastCheer": 1786070984057,
       "firstBloods": 0
     },
+    "exidiousmusic": {
+      "id": "72061063",
+      "login": "exidiousmusic",
+      "display": "ExidiousMusic",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826537548,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1787285686129,
+      "firstBloods": 1
+    },
     "d_normous": {
       "id": "499594919",
       "login": "d_normous",
@@ -1343,7 +1371,10 @@
       "lastWomp": null,
       "addedAt": 1787097544548,
       "cheers": 3,
-      "lastCheer": 1787108291889
+      "lastCheer": 1787108291889,
+      "saves": 0,
+      "firstBloods": 0,
+      "lastSave": null
     }
   },
   "log": [
@@ -3413,6 +3444,23 @@
       "key": "syntaxerror22",
       "cheer": true,
       "moment": 1787118245446
+    },
+    {
+      "t": 1787119016217,
+      "key": "brokenwagon",
+      "delta": 1
+    },
+    {
+      "t": 1787285700385,
+      "key": "huntedgatherer",
+      "delta": 1
+    },
+    {
+      "t": 1787285686129,
+      "key": "exidiousmusic",
+      "cheer": true,
+      "moment": 1787285520385,
+      "first": true
     }
   ]
 }
