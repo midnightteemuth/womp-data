@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787285709221,
+  "publishedAt": 1787285907688,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 347,
+  "sourceLogLength": 349,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -475,9 +475,9 @@
       "lastWomp": 1786826697307,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 10,
+      "cheers": 11,
       "lastSave": null,
-      "lastCheer": 1787108263810,
+      "lastCheer": 1787285719904,
       "firstBloods": 7
     },
     "mycosynthmusic": {
@@ -1375,6 +1375,20 @@
       "saves": 0,
       "firstBloods": 0,
       "lastSave": null
+    },
+    "akinbgbpride1": {
+      "id": "136122386",
+      "login": "akinbgbpride1",
+      "display": "akinbgbpride1",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f653b8ca49ea9cd4-profile_image-300x300.jpeg",
+      "womps": 0,
+      "lastWomp": null,
+      "saves": 0,
+      "lastSave": null,
+      "cheers": 1,
+      "lastCheer": 1787285712057,
+      "firstBloods": 0,
+      "addedAt": 1787285712057
     }
   },
   "log": [
@@ -3461,6 +3475,18 @@
       "cheer": true,
       "moment": 1787285520385,
       "first": true
+    },
+    {
+      "t": 1787285712057,
+      "key": "akinbgbpride1",
+      "cheer": true,
+      "moment": 1787285520385
+    },
+    {
+      "t": 1787285719904,
+      "key": "nebelheim",
+      "cheer": true,
+      "moment": 1787285520385
     }
   ]
 }
