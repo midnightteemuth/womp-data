@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787414599900,
+  "publishedAt": 1787419310886,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 375,
+  "sourceLogLength": 388,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -13,9 +13,9 @@
       "lastWomp": null,
       "addedAt": 1785826534895,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1786075436939,
+      "lastCheer": 1787419300371,
       "firstBloods": 1
     },
     "thegoldennadeyt": {
@@ -83,9 +83,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 3,
+      "cheers": 5,
       "lastSave": null,
-      "lastCheer": 1787414556555,
+      "lastCheer": 1787419304179,
       "firstBloods": 0
     },
     "incidentarchive00": {
@@ -265,10 +265,10 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 38,
+      "cheers": 39,
       "lastSave": null,
-      "lastCheer": 1787414527224,
-      "firstBloods": 10
+      "lastCheer": 1787416177717,
+      "firstBloods": 11
     },
     "izzyd3adyet": {
       "id": "959117250",
@@ -485,13 +485,13 @@
       "login": "nebelheim",
       "display": "Nebelheim",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/34666987-1a63-4dbf-ba2a-4cbeef97d550-profile_image-300x300.png",
-      "womps": 1,
-      "lastWomp": 1786826697307,
+      "womps": 2,
+      "lastWomp": 1787419303715,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 15,
+      "cheers": 16,
       "lastSave": null,
-      "lastCheer": 1787414530365,
+      "lastCheer": 1787416196331,
       "firstBloods": 8
     },
     "mycosynthmusic": {
@@ -517,9 +517,9 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1787414557940,
+      "lastCheer": 1787419289501,
       "firstBloods": 0
     },
     "mr_denn_presents": {
@@ -718,6 +718,20 @@
       "lastCheer": 1787414526015,
       "firstBloods": 1
     },
+    "xaedthx": {
+      "id": "261924593",
+      "login": "xaedthx",
+      "display": "xAedthx",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa1a52c7-7f63-496a-a351-b14114cbd4a1-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826536088,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1787419281957,
+      "firstBloods": 1
+    },
     "aerik_18170": {
       "id": "1285247759",
       "login": "aerik_18170",
@@ -727,9 +741,9 @@
       "lastWomp": 1785914724040,
       "addedAt": 1785826536417,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1787414540090,
+      "lastCheer": 1787419287124,
       "firstBloods": 0
     },
     "sesinya": {
@@ -1049,9 +1063,9 @@
       "lastWomp": null,
       "addedAt": 1785826537029,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1785896944856,
+      "lastCheer": 1787419293726,
       "firstBloods": 0
     },
     "pork____": {
@@ -1131,6 +1145,20 @@
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9d50966-bd3c-4965-b6b4-8e66c0e36034-profile_image-300x300.jpeg",
       "womps": 1,
       "lastWomp": 1786842214422,
+      "addedAt": 1785826537232,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "graveilband": {
+      "id": "1216093056",
+      "login": "graveilband",
+      "display": "graveilband",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1787416198855,
       "addedAt": 1785826537232,
       "saves": 0,
       "cheers": 0,
@@ -1376,6 +1404,20 @@
       "firstBloods": 0,
       "addedAt": 1786076803646
     },
+    "mindcrime_": {
+      "id": "625410811",
+      "login": "mindcrime_",
+      "display": "mindcrime_",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0508d98e-db4a-4505-9e87-48535c0bbd97-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1786227858947,
+      "saves": 0,
+      "cheers": 1,
+      "firstBloods": 0,
+      "lastSave": null,
+      "lastCheer": 1787419302297
+    },
     "scuti00000": {
       "id": "1527839950",
       "login": "scuti00000",
@@ -1445,6 +1487,20 @@
       "lastCheer": 1787414534764,
       "firstBloods": 0,
       "addedAt": 1787285712057
+    },
+    "ghost_ai_": {
+      "id": "552487869",
+      "login": "ghost_ai_",
+      "display": "ghost_ai_",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "saves": 0,
+      "lastSave": null,
+      "cheers": 1,
+      "lastCheer": 1787419292342,
+      "firstBloods": 0,
+      "addedAt": 1787419292342
     }
   },
   "log": [
@@ -3701,6 +3757,84 @@
       "t": 1787414576965,
       "key": "evilunicornnymph",
       "delta": 1
+    },
+    {
+      "t": 1787416177717,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1787416177717,
+      "first": true
+    },
+    {
+      "t": 1787416186764,
+      "key": "captaintenille",
+      "cheer": true,
+      "moment": 1787416177717
+    },
+    {
+      "t": 1787416196331,
+      "key": "nebelheim",
+      "cheer": true,
+      "moment": 1787416177717
+    },
+    {
+      "t": 1787416198855,
+      "key": "graveilband",
+      "delta": 1
+    },
+    {
+      "t": 1787419281957,
+      "key": "xaedthx",
+      "cheer": true,
+      "moment": 1787419281957,
+      "first": true
+    },
+    {
+      "t": 1787419287124,
+      "key": "aerik_18170",
+      "cheer": true,
+      "moment": 1787419281957
+    },
+    {
+      "t": 1787419289501,
+      "key": "lydie_zan",
+      "cheer": true,
+      "moment": 1787419281957
+    },
+    {
+      "t": 1787419292342,
+      "key": "ghost_ai_",
+      "cheer": true,
+      "moment": 1787419281957
+    },
+    {
+      "t": 1787419293726,
+      "key": "steve_aka_bobbin_mcferry",
+      "cheer": true,
+      "moment": 1787419281957
+    },
+    {
+      "t": 1787419300371,
+      "key": "okarismatic",
+      "cheer": true,
+      "moment": 1787419281957
+    },
+    {
+      "t": 1787419302297,
+      "key": "mindcrime_",
+      "cheer": true,
+      "moment": 1787419281957
+    },
+    {
+      "t": 1787419303715,
+      "key": "nebelheim",
+      "delta": 1
+    },
+    {
+      "t": 1787419304179,
+      "key": "captaintenille",
+      "cheer": true,
+      "moment": 1787419281957
     }
   ]
 }
