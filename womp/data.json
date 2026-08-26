@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787711240087,
+  "publishedAt": 1787713647949,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 451,
+  "sourceLogLength": 457,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -73,6 +73,20 @@
       "lastSave": null,
       "lastCheer": 1785889187179,
       "firstBloods": 1
+    },
+    "quinnstarmedia": {
+      "id": "556629478",
+      "login": "quinnstarmedia",
+      "display": "QuinnstarMedia",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d10c0d3b-8939-43bf-8a26-69da1d6fe383-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826534896,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1787713618051,
+      "firstBloods": 0
     },
     "velkanera": {
       "id": "95311958",
@@ -195,9 +209,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 4,
+      "cheers": 5,
       "lastSave": null,
-      "lastCheer": 1787711125113,
+      "lastCheer": 1787713631543,
       "firstBloods": 0
     },
     "deathbyastaplegun": {
@@ -293,9 +307,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 42,
+      "cheers": 43,
       "lastSave": null,
-      "lastCheer": 1787709405233,
+      "lastCheer": 1787713624120,
       "firstBloods": 11
     },
     "izzyd3adyet": {
@@ -601,10 +615,10 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 39,
+      "cheers": 40,
       "lastSave": null,
-      "lastCheer": 1787711124538,
-      "firstBloods": 15
+      "lastCheer": 1787713604719,
+      "firstBloods": 16
     },
     "black_bulllet": {
       "id": "1399823548",
@@ -909,9 +923,9 @@
       "lastWomp": null,
       "addedAt": 1785826536622,
       "saves": 0,
-      "cheers": 7,
+      "cheers": 8,
       "lastSave": null,
-      "lastCheer": 1787711209628,
+      "lastCheer": 1787713627362,
       "firstBloods": 0
     },
     "mainrecords": {
@@ -1003,8 +1017,8 @@
       "login": "artisynthmusic",
       "display": "artisynthmusic",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/26fbcd27-a282-4d5b-bfa1-eae24d6e5899-profile_image-300x300.png",
-      "womps": 0,
-      "lastWomp": null,
+      "womps": 1,
+      "lastWomp": 1787713635719,
       "addedAt": 1785826536823,
       "saves": 0,
       "cheers": 3,
@@ -4336,6 +4350,42 @@
     {
       "t": 1787711213062,
       "key": "plaidweaselvt",
+      "delta": 1
+    },
+    {
+      "t": 1787713604719,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1787713604719,
+      "first": true
+    },
+    {
+      "t": 1787713618051,
+      "key": "quinnstarmedia",
+      "cheer": true,
+      "moment": 1787713604719
+    },
+    {
+      "t": 1787713624120,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1787713604719
+    },
+    {
+      "t": 1787713627362,
+      "key": "iamtheeviltwin",
+      "cheer": true,
+      "moment": 1787713604719
+    },
+    {
+      "t": 1787713631543,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1787713604719
+    },
+    {
+      "t": 1787713635719,
+      "key": "artisynthmusic",
       "delta": 1
     }
   ]
