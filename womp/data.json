@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787711171131,
+  "publishedAt": 1787711240087,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 448,
+  "sourceLogLength": 451,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -844,6 +844,20 @@
       "lastCheer": 1787103919875,
       "firstBloods": 0
     },
+    "plaidweaselvt": {
+      "id": "86029547",
+      "login": "plaidweaselvt",
+      "display": "PlaidWeaselVT",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e177940c-96be-4275-9808-999ab4a53010-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1787711213062,
+      "addedAt": 1785826536622,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
     "showtimemommy": {
       "id": "792538494",
       "login": "showtimemommy",
@@ -895,9 +909,9 @@
       "lastWomp": null,
       "addedAt": 1785826536622,
       "saves": 0,
-      "cheers": 6,
+      "cheers": 7,
       "lastSave": null,
-      "lastCheer": 1787108280247,
+      "lastCheer": 1787711209628,
       "firstBloods": 0
     },
     "mainrecords": {
@@ -1596,6 +1610,17 @@
       "addedAt": 1787700271095,
       "cheers": 1,
       "lastCheer": 1787708221026
+    },
+    "playingintheashes": {
+      "id": "1510847112",
+      "login": "playingintheashes",
+      "display": "PlayingInTheAshes",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a786c1c0-a94d-4e49-b1b4-bfa279421472-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1787700271354,
+      "cheers": 1,
+      "lastCheer": 1787711206780
     }
   },
   "log": [
@@ -4295,6 +4320,23 @@
       "key": "mr_mangese",
       "cheer": true,
       "moment": 1787711124538
+    },
+    {
+      "t": 1787711206780,
+      "key": "playingintheashes",
+      "cheer": true,
+      "moment": 1787711124538
+    },
+    {
+      "t": 1787711209628,
+      "key": "iamtheeviltwin",
+      "cheer": true,
+      "moment": 1787711124538
+    },
+    {
+      "t": 1787711213062,
+      "key": "plaidweaselvt",
+      "delta": 1
     }
   ]
 }
