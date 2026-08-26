@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787713647949,
+  "publishedAt": 1787714523938,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 457,
+  "sourceLogLength": 460,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -615,10 +615,10 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 40,
+      "cheers": 41,
       "lastSave": null,
-      "lastCheer": 1787713604719,
-      "firstBloods": 16
+      "lastCheer": 1787714496423,
+      "firstBloods": 17
     },
     "black_bulllet": {
       "id": "1399823548",
@@ -863,8 +863,8 @@
       "login": "plaidweaselvt",
       "display": "PlaidWeaselVT",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e177940c-96be-4275-9808-999ab4a53010-profile_image-300x300.png",
-      "womps": 1,
-      "lastWomp": 1787711213062,
+      "womps": 2,
+      "lastWomp": 1787714502680,
       "addedAt": 1785826536622,
       "saves": 0,
       "cheers": 0,
@@ -923,9 +923,9 @@
       "lastWomp": null,
       "addedAt": 1785826536622,
       "saves": 0,
-      "cheers": 8,
+      "cheers": 9,
       "lastSave": null,
-      "lastCheer": 1787713627362,
+      "lastCheer": 1787714496962,
       "firstBloods": 0
     },
     "mainrecords": {
@@ -4387,6 +4387,24 @@
       "t": 1787713635719,
       "key": "artisynthmusic",
       "delta": 1
+    },
+    {
+      "t": 1787714502680,
+      "key": "plaidweaselvt",
+      "delta": 1
+    },
+    {
+      "t": 1787714496423,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1787714322680,
+      "first": true
+    },
+    {
+      "t": 1787714496962,
+      "key": "iamtheeviltwin",
+      "cheer": true,
+      "moment": 1787714322680
     }
   ]
 }
