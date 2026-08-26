@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787715386655,
+  "publishedAt": 1787715442669,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 469,
+  "sourceLogLength": 473,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -55,9 +55,9 @@
       "lastWomp": 1787414576965,
       "addedAt": 1785826534895,
       "saves": 0,
-      "cheers": 21,
+      "cheers": 22,
       "lastSave": null,
-      "lastCheer": 1787422169015,
+      "lastCheer": 1787715394610,
       "firstBloods": 1
     },
     "djxclassyissue": {
@@ -209,9 +209,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 6,
+      "cheers": 7,
       "lastSave": null,
-      "lastCheer": 1787714567416,
+      "lastCheer": 1787715397454,
       "firstBloods": 0
     },
     "deathbyastaplegun": {
@@ -923,9 +923,9 @@
       "lastWomp": null,
       "addedAt": 1785826536622,
       "saves": 0,
-      "cheers": 9,
+      "cheers": 10,
       "lastSave": null,
-      "lastCheer": 1787714496962,
+      "lastCheer": 1787715436246,
       "firstBloods": 0
     },
     "mainrecords": {
@@ -1017,8 +1017,8 @@
       "login": "artisynthmusic",
       "display": "artisynthmusic",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/26fbcd27-a282-4d5b-bfa1-eae24d6e5899-profile_image-300x300.png",
-      "womps": 1,
-      "lastWomp": 1787713635719,
+      "womps": 2,
+      "lastWomp": 1787715437433,
       "addedAt": 1785826536823,
       "saves": 0,
       "cheers": 3,
@@ -4459,6 +4459,29 @@
       "key": "mulds_tv",
       "cheer": true,
       "moment": 1787715349469
+    },
+    {
+      "t": 1787715394610,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1787715349469
+    },
+    {
+      "t": 1787715397454,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1787715349469
+    },
+    {
+      "t": 1787715436246,
+      "key": "iamtheeviltwin",
+      "cheer": true,
+      "moment": 1787715349469
+    },
+    {
+      "t": 1787715437433,
+      "key": "artisynthmusic",
+      "delta": 1
     }
   ]
 }
