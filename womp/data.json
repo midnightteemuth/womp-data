@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787720473989,
+  "publishedAt": 1787722752501,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 495,
+  "sourceLogLength": 502,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -100,6 +100,20 @@
       "cheers": 1,
       "lastSave": null,
       "lastCheer": 1787428022229,
+      "firstBloods": 0
+    },
+    "rinraccoon_": {
+      "id": "1041847655",
+      "login": "rinraccoon_",
+      "display": "rinraccoon_",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/842503aa-4e80-410a-90a3-effd7e3946ed-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1787722745241,
+      "addedAt": 1785826534896,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
       "firstBloods": 0
     },
     "captaintenille": {
@@ -209,9 +223,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 8,
+      "cheers": 9,
       "lastSave": null,
-      "lastCheer": 1787716618532,
+      "lastCheer": 1787722717754,
       "firstBloods": 0
     },
     "deathbyastaplegun": {
@@ -335,9 +349,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 37,
+      "cheers": 38,
       "lastSave": null,
-      "lastCheer": 1787720426156,
+      "lastCheer": 1787722719229,
       "firstBloods": 11
     },
     "danger__danger": {
@@ -475,9 +489,9 @@
       "lastWomp": 1785901324007,
       "addedAt": 1785826535549,
       "saves": 0,
-      "cheers": 5,
+      "cheers": 6,
       "lastSave": null,
-      "lastCheer": 1787716595938,
+      "lastCheer": 1787720481244,
       "firstBloods": 0
     },
     "brokenwagon": {
@@ -657,9 +671,9 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 3,
       "lastSave": null,
-      "lastCheer": 1787103920894,
+      "lastCheer": 1787722724311,
       "firstBloods": 0
     },
     "sweetheartprowrestling": {
@@ -685,9 +699,9 @@
       "lastWomp": 1787427968154,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 5,
+      "cheers": 6,
       "lastSave": null,
-      "lastCheer": 1787720450806,
+      "lastCheer": 1787722744787,
       "firstBloods": 0
     },
     "deciduouszeus": {
@@ -1301,10 +1315,10 @@
       "lastWomp": null,
       "addedAt": 1785826537548,
       "saves": 0,
-      "cheers": 12,
+      "cheers": 13,
       "lastSave": null,
-      "lastCheer": 1787720454116,
-      "firstBloods": 1
+      "lastCheer": 1787722716086,
+      "firstBloods": 2
     },
     "diggermc": {
       "id": "42103838",
@@ -4629,6 +4643,48 @@
     {
       "t": 1787720466856,
       "key": "thejjshowai",
+      "delta": 1
+    },
+    {
+      "t": 1787720481244,
+      "key": "captainhindsight420",
+      "cheer": true,
+      "moment": 1787720426156
+    },
+    {
+      "t": 1787722716086,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1787722716086,
+      "first": true
+    },
+    {
+      "t": 1787722717754,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1787722716086
+    },
+    {
+      "t": 1787722719229,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1787722716086
+    },
+    {
+      "t": 1787722724311,
+      "key": "legionusa",
+      "cheer": true,
+      "moment": 1787722716086
+    },
+    {
+      "t": 1787722744787,
+      "key": "rodmachismo",
+      "cheer": true,
+      "moment": 1787722716086
+    },
+    {
+      "t": 1787722745241,
+      "key": "rinraccoon_",
       "delta": 1
     }
   ]
