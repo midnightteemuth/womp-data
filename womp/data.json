@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1787714523938,
+  "publishedAt": 1787715386655,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 460,
+  "sourceLogLength": 469,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -209,9 +209,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 5,
+      "cheers": 6,
       "lastSave": null,
-      "lastCheer": 1787713631543,
+      "lastCheer": 1787714567416,
       "firstBloods": 0
     },
     "deathbyastaplegun": {
@@ -261,8 +261,8 @@
       "login": "huntedgatherer",
       "display": "HuntedGatherer",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7dea1a1-b4dd-4189-a24e-b313e3351645-profile_image-300x300.png",
-      "womps": 1,
-      "lastWomp": 1787285700385,
+      "womps": 2,
+      "lastWomp": 1787715371715,
       "addedAt": 1785826535343,
       "saves": 0,
       "cheers": 3,
@@ -307,9 +307,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 43,
+      "cheers": 44,
       "lastSave": null,
-      "lastCheer": 1787713624120,
+      "lastCheer": 1787715374767,
       "firstBloods": 11
     },
     "izzyd3adyet": {
@@ -335,9 +335,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 32,
+      "cheers": 34,
       "lastSave": null,
-      "lastCheer": 1787711129238,
+      "lastCheer": 1787715356437,
       "firstBloods": 9
     },
     "danger__danger": {
@@ -475,9 +475,9 @@
       "lastWomp": 1785901324007,
       "addedAt": 1785826535549,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 4,
       "lastSave": null,
-      "lastCheer": 1787708223939,
+      "lastCheer": 1787715367513,
       "firstBloods": 0
     },
     "brokenwagon": {
@@ -615,10 +615,10 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 41,
+      "cheers": 42,
       "lastSave": null,
-      "lastCheer": 1787714496423,
-      "firstBloods": 17
+      "lastCheer": 1787715349469,
+      "firstBloods": 18
     },
     "black_bulllet": {
       "id": "1399823548",
@@ -685,9 +685,9 @@
       "lastWomp": 1787427968154,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 3,
       "lastSave": null,
-      "lastCheer": 1787425093124,
+      "lastCheer": 1787714575882,
       "firstBloods": 0
     },
     "deciduouszeus": {
@@ -4405,6 +4405,60 @@
       "key": "iamtheeviltwin",
       "cheer": true,
       "moment": 1787714322680
+    },
+    {
+      "t": 1787714555479,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1787714322680
+    },
+    {
+      "t": 1787714567416,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1787714322680
+    },
+    {
+      "t": 1787714575882,
+      "key": "rodmachismo",
+      "cheer": true,
+      "moment": 1787714322680
+    },
+    {
+      "t": 1787714584880,
+      "key": "captainhindsight420",
+      "cheer": true,
+      "moment": 1787714322680
+    },
+    {
+      "t": 1787715349469,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1787715349469,
+      "first": true
+    },
+    {
+      "t": 1787715356437,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1787715349469
+    },
+    {
+      "t": 1787715367513,
+      "key": "captainhindsight420",
+      "cheer": true,
+      "moment": 1787715349469
+    },
+    {
+      "t": 1787715371715,
+      "key": "huntedgatherer",
+      "delta": 1
+    },
+    {
+      "t": 1787715374767,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1787715349469
     }
   ]
 }
