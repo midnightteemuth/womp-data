@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1788020858087,
+  "publishedAt": 1788023741884,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 515,
+  "sourceLogLength": 521,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -13,9 +13,9 @@
       "lastWomp": null,
       "addedAt": 1785826534895,
       "saves": 0,
-      "cheers": 6,
+      "cheers": 7,
       "lastSave": null,
-      "lastCheer": 1788020831718,
+      "lastCheer": 1788023685460,
       "firstBloods": 1
     },
     "thegoldennadeyt": {
@@ -363,9 +363,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 40,
+      "cheers": 41,
       "lastSave": null,
-      "lastCheer": 1788016942886,
+      "lastCheer": 1788023695348,
       "firstBloods": 12
     },
     "danger__danger": {
@@ -559,10 +559,10 @@
       "lastWomp": 1787419303715,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 26,
+      "cheers": 27,
       "lastSave": null,
-      "lastCheer": 1788020825421,
-      "firstBloods": 16
+      "lastCheer": 1788023674517,
+      "firstBloods": 17
     },
     "mycosynthmusic": {
       "id": "1448585487",
@@ -1451,8 +1451,8 @@
       "login": "panthera_may",
       "display": "Panthera_May",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/228cc84b-ed4c-422d-a719-e162378f332e-profile_image-300x300.png",
-      "womps": 1,
-      "lastWomp": 1787292372403,
+      "womps": 2,
+      "lastWomp": 1788023730361,
       "addedAt": 1785826537548,
       "saves": 0,
       "cheers": 0,
@@ -1692,8 +1692,8 @@
       "womps": 0,
       "lastWomp": null,
       "addedAt": 1787700271095,
-      "cheers": 1,
-      "lastCheer": 1787708221026,
+      "cheers": 2,
+      "lastCheer": 1788023701356,
       "saves": 0,
       "firstBloods": 0,
       "lastSave": null
@@ -1711,6 +1711,20 @@
       "saves": 0,
       "firstBloods": 0,
       "lastSave": null
+    },
+    "ghost_o_x": {
+      "id": "1172998747",
+      "login": "ghost_o_x",
+      "display": "GHOST_o_x",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/31f13a77-2f55-4f8b-a5fa-2f4b5bef8f76-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "saves": 0,
+      "lastSave": null,
+      "cheers": 1,
+      "lastCheer": 1788023700246,
+      "firstBloods": 0,
+      "addedAt": 1788023700246
     }
   },
   "log": [
@@ -4813,6 +4827,42 @@
     {
       "t": 1788020851047,
       "key": "fireflyxilzs",
+      "delta": 1
+    },
+    {
+      "t": 1788023674517,
+      "key": "nebelheim",
+      "cheer": true,
+      "moment": 1788023674517,
+      "first": true
+    },
+    {
+      "t": 1788023685460,
+      "key": "okarismatic",
+      "cheer": true,
+      "moment": 1788023674517
+    },
+    {
+      "t": 1788023695348,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1788023674517
+    },
+    {
+      "t": 1788023700246,
+      "key": "ghost_o_x",
+      "cheer": true,
+      "moment": 1788023674517
+    },
+    {
+      "t": 1788023701356,
+      "key": "t0rnadica",
+      "cheer": true,
+      "moment": 1788023674517
+    },
+    {
+      "t": 1788023730361,
+      "key": "panthera_may",
       "delta": 1
     }
   ]
