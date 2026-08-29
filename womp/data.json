@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1788027571386,
+  "publishedAt": 1788027891661,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 545,
+  "sourceLogLength": 548,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -114,6 +114,20 @@
       "cheers": 0,
       "lastSave": null,
       "lastCheer": null,
+      "firstBloods": 0
+    },
+    "rzrxn_": {
+      "id": "67695378",
+      "login": "rzrxn_",
+      "display": "rzrxn_",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b893ae4-04f0-4f00-a86c-ec691b4a3103-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826534896,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1788027636181,
       "firstBloods": 0
     },
     "captaintenille": {
@@ -335,9 +349,9 @@
       "lastWomp": 1785907530934,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 4,
+      "cheers": 5,
       "lastSave": null,
-      "lastCheer": 1788025635803,
+      "lastCheer": 1788027576365,
       "firstBloods": 0
     },
     "mulds_tv": {
@@ -548,6 +562,20 @@
       "cheers": 1,
       "lastSave": null,
       "lastCheer": 1786500260070,
+      "firstBloods": 0
+    },
+    "realkennyb": {
+      "id": "1453743257",
+      "login": "realkennyb",
+      "display": "RealKennyB",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535549,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1788027669791,
       "firstBloods": 0
     },
     "thegalaxythieves": {
@@ -5023,6 +5051,24 @@
       "t": 1788027562472,
       "key": "trippsgeneratedtracks",
       "delta": 1
+    },
+    {
+      "t": 1788027576365,
+      "key": "radu_r4bv",
+      "cheer": true,
+      "moment": 1788027368350
+    },
+    {
+      "t": 1788027636181,
+      "key": "rzrxn_",
+      "cheer": true,
+      "moment": 1788027368350
+    },
+    {
+      "t": 1788027669791,
+      "key": "realkennyb",
+      "cheer": true,
+      "moment": 1788027368350
     }
   ]
 }
