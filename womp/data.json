@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1788028892324,
+  "publishedAt": 1788029506103,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 552,
+  "sourceLogLength": 555,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -363,9 +363,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 51,
+      "cheers": 52,
       "lastSave": null,
-      "lastCheer": 1788028861553,
+      "lastCheer": 1788029489340,
       "firstBloods": 11
     },
     "izzyd3adyet": {
@@ -601,10 +601,10 @@
       "lastWomp": 1787419303715,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 31,
+      "cheers": 32,
       "lastSave": null,
-      "lastCheer": 1788028847844,
-      "firstBloods": 20
+      "lastCheer": 1788029486379,
+      "firstBloods": 21
     },
     "mycosynthmusic": {
       "id": "1448585487",
@@ -1062,6 +1062,20 @@
       "womps": 1,
       "lastWomp": 1786507292160,
       "addedAt": 1785826536622,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
+    "jrise245": {
+      "id": "71100615",
+      "login": "jrise245",
+      "display": "jrise245",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8125190d-9477-45c2-9acb-812c91c9b363-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1788029499539,
+      "addedAt": 1785826536823,
       "saves": 0,
       "cheers": 0,
       "lastSave": null,
@@ -5107,6 +5121,24 @@
       "t": 1788028884605,
       "key": "danjascout",
       "delta": 1
+    },
+    {
+      "t": 1788029499539,
+      "key": "jrise245",
+      "delta": 1
+    },
+    {
+      "t": 1788029486379,
+      "key": "nebelheim",
+      "cheer": true,
+      "moment": 1788029319539,
+      "first": true
+    },
+    {
+      "t": 1788029489340,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1788029319539
     }
   ]
 }
