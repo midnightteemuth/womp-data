@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1788027891661,
+  "publishedAt": 1788028892324,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 548,
+  "sourceLogLength": 552,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -363,9 +363,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 50,
+      "cheers": 51,
       "lastSave": null,
-      "lastCheer": 1788026733848,
+      "lastCheer": 1788028861553,
       "firstBloods": 11
     },
     "izzyd3adyet": {
@@ -391,9 +391,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 44,
+      "cheers": 45,
       "lastSave": null,
-      "lastCheer": 1788026734341,
+      "lastCheer": 1788028867968,
       "firstBloods": 12
     },
     "danger__danger": {
@@ -601,10 +601,10 @@
       "lastWomp": 1787419303715,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 30,
+      "cheers": 31,
       "lastSave": null,
-      "lastCheer": 1788027506652,
-      "firstBloods": 19
+      "lastCheer": 1788028847844,
+      "firstBloods": 20
     },
     "mycosynthmusic": {
       "id": "1448585487",
@@ -1319,6 +1319,20 @@
       "lastSave": null,
       "lastCheer": 1786081474309,
       "firstBloods": 3
+    },
+    "danjascout": {
+      "id": "139605472",
+      "login": "danjascout",
+      "display": "danjascout",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1788028884604,
+      "addedAt": 1785826537232,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
     },
     "maxoxpower": {
       "id": "71083276",
@@ -5069,6 +5083,30 @@
       "key": "realkennyb",
       "cheer": true,
       "moment": 1788027368350
+    },
+    {
+      "t": 1788028847844,
+      "key": "nebelheim",
+      "cheer": true,
+      "moment": 1788028847844,
+      "first": true
+    },
+    {
+      "t": 1788028861553,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1788028847844
+    },
+    {
+      "t": 1788028867968,
+      "key": "chylddlevanto",
+      "cheer": true,
+      "moment": 1788028847844
+    },
+    {
+      "t": 1788028884605,
+      "key": "danjascout",
+      "delta": 1
     }
   ]
 }
