@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1788205585749,
+  "publishedAt": 1788207642482,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 668,
+  "sourceLogLength": 695,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -83,9 +83,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 5,
+      "cheers": 9,
       "lastSave": null,
-      "lastCheer": 1788205542007,
+      "lastCheer": 1788207617600,
       "firstBloods": 0
     },
     "quinnstarmedia": {
@@ -219,8 +219,8 @@
       "login": "greenloungerecords",
       "display": "greenloungerecords",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0e60a16-00dd-4a19-abe8-823ebb8fe38d-profile_image-300x300.png",
-      "womps": 1,
-      "lastWomp": 1786842661755,
+      "womps": 2,
+      "lastWomp": 1788206220141,
       "addedAt": 1785826534896,
       "saves": 0,
       "cheers": 4,
@@ -279,10 +279,10 @@
       "lastWomp": 1788205576195,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 21,
+      "cheers": 26,
       "lastSave": null,
-      "lastCheer": 1788204946074,
-      "firstBloods": 0
+      "lastCheer": 1788207581317,
+      "firstBloods": 1
     },
     "deathbyastaplegun": {
       "id": "118891370",
@@ -363,9 +363,9 @@
       "lastWomp": 1788027562472,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 3,
       "lastSave": null,
-      "lastCheer": 1788031946112,
+      "lastCheer": 1788207392457,
       "firstBloods": 0
     },
     "delgryphon": {
@@ -405,9 +405,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 57,
+      "cheers": 59,
       "lastSave": null,
-      "lastCheer": 1788203822455,
+      "lastCheer": 1788207615624,
       "firstBloods": 11
     },
     "izzyd3adyet": {
@@ -489,9 +489,9 @@
       "lastWomp": null,
       "addedAt": 1785826535549,
       "saves": 0,
-      "cheers": 11,
+      "cheers": 13,
       "lastSave": null,
-      "lastCheer": 1788205565303,
+      "lastCheer": 1788207613720,
       "firstBloods": 1
     },
     "fallenangelaimusic": {
@@ -629,10 +629,10 @@
       "lastWomp": null,
       "addedAt": 1785826535549,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 7,
       "lastSave": null,
-      "lastCheer": 1788032000097,
-      "firstBloods": 0
+      "lastCheer": 1788207569857,
+      "firstBloods": 3
     },
     "thegalaxythieves": {
       "id": "1393373918",
@@ -657,9 +657,9 @@
       "lastWomp": 1787419303715,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 35,
+      "cheers": 36,
       "lastSave": null,
-      "lastCheer": 1788031935154,
+      "lastCheer": 1788207323563,
       "firstBloods": 22
     },
     "mycosynthmusic": {
@@ -755,10 +755,10 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 56,
+      "cheers": 60,
       "lastSave": null,
-      "lastCheer": 1788205538111,
-      "firstBloods": 23
+      "lastCheer": 1788207602045,
+      "firstBloods": 24
     },
     "black_bulllet": {
       "id": "1399823548",
@@ -1535,8 +1535,8 @@
       "login": "graveilband",
       "display": "graveilband",
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png",
-      "womps": 2,
-      "lastWomp": 1787422186313,
+      "womps": 3,
+      "lastWomp": 1788206595099,
       "addedAt": 1785826537232,
       "saves": 0,
       "cheers": 0,
@@ -1969,8 +1969,8 @@
       "login": "ghost_o_x",
       "display": "GHOST_o_x",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/31f13a77-2f55-4f8b-a5fa-2f4b5bef8f76-profile_image-300x300.png",
-      "womps": 0,
-      "lastWomp": null,
+      "womps": 1,
+      "lastWomp": 1788207626544,
       "saves": 0,
       "lastSave": null,
       "cheers": 8,
@@ -6018,6 +6018,170 @@
     {
       "t": 1788205576195,
       "key": "merc_with_the_code",
+      "delta": 1
+    },
+    {
+      "t": 1788206220141,
+      "key": "greenloungerecords",
+      "delta": 1
+    },
+    {
+      "t": 1788206211574,
+      "key": "realkennyb",
+      "cheer": true,
+      "moment": 1788206040141,
+      "first": true
+    },
+    {
+      "t": 1788206216399,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1788206040141
+    },
+    {
+      "t": 1788206257027,
+      "key": "rufusthetramp",
+      "cheer": true,
+      "moment": 1788206040141
+    },
+    {
+      "t": 1788206260656,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1788206040141
+    },
+    {
+      "t": 1788206273299,
+      "key": "d_uelnature",
+      "cheer": true,
+      "moment": 1788206040141
+    },
+    {
+      "t": 1788206576652,
+      "key": "realkennyb",
+      "cheer": true,
+      "moment": 1788206576652,
+      "first": true
+    },
+    {
+      "t": 1788206585524,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1788206576652
+    },
+    {
+      "t": 1788206586371,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1788206576652
+    },
+    {
+      "t": 1788206593075,
+      "key": "rufusthetramp",
+      "cheer": true,
+      "moment": 1788206576652
+    },
+    {
+      "t": 1788206595099,
+      "key": "graveilband",
+      "delta": 1
+    },
+    {
+      "t": 1788206894824,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1788206894824,
+      "first": true
+    },
+    {
+      "t": 1788206896057,
+      "key": "realkennyb",
+      "cheer": true,
+      "moment": 1788206894824
+    },
+    {
+      "t": 1788206897799,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1788206894824
+    },
+    {
+      "t": 1788207259921,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1788207259921,
+      "first": true
+    },
+    {
+      "t": 1788207288288,
+      "key": "realkennyb",
+      "cheer": true,
+      "moment": 1788207259921
+    },
+    {
+      "t": 1788207292853,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1788207259921
+    },
+    {
+      "t": 1788207296211,
+      "key": "rufusthetramp",
+      "cheer": true,
+      "moment": 1788207259921
+    },
+    {
+      "t": 1788207323563,
+      "key": "nebelheim",
+      "cheer": true,
+      "moment": 1788207259921
+    },
+    {
+      "t": 1788207392457,
+      "key": "trippsgeneratedtracks",
+      "cheer": true,
+      "moment": 1788207259921
+    },
+    {
+      "t": 1788207569857,
+      "key": "realkennyb",
+      "cheer": true,
+      "moment": 1788207569857,
+      "first": true
+    },
+    {
+      "t": 1788207581317,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1788207569857
+    },
+    {
+      "t": 1788207602045,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1788207569857
+    },
+    {
+      "t": 1788207613720,
+      "key": "d_uelnature",
+      "cheer": true,
+      "moment": 1788207569857
+    },
+    {
+      "t": 1788207615624,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1788207569857
+    },
+    {
+      "t": 1788207617600,
+      "key": "rufusthetramp",
+      "cheer": true,
+      "moment": 1788207569857
+    },
+    {
+      "t": 1788207626544,
+      "key": "ghost_o_x",
       "delta": 1
     }
   ]
