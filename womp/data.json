@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1788201303041,
+  "publishedAt": 1788201951705,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 629,
+  "sourceLogLength": 635,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -83,9 +83,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1788200886349,
+      "lastCheer": 1788201900743,
       "firstBloods": 0
     },
     "quinnstarmedia": {
@@ -279,9 +279,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 16,
+      "cheers": 17,
       "lastSave": null,
-      "lastCheer": 1788201276314,
+      "lastCheer": 1788201904301,
       "firstBloods": 0
     },
     "deathbyastaplegun": {
@@ -587,10 +587,10 @@
       "lastWomp": null,
       "addedAt": 1785826535549,
       "saves": 0,
-      "cheers": 7,
+      "cheers": 8,
       "lastSave": null,
-      "lastCheer": 1788201275034,
-      "firstBloods": 3
+      "lastCheer": 1788201900160,
+      "firstBloods": 4
     },
     "brokenwagon": {
       "id": "112165274",
@@ -695,8 +695,8 @@
       "login": "mr_denn_presents",
       "display": "mr_denn_presents",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f16a06c-4e96-496a-8045-1420a05574fa-profile_image-300x300.jpeg",
-      "womps": 1,
-      "lastWomp": 1786499449913,
+      "womps": 2,
+      "lastWomp": 1788201944860,
       "addedAt": 1785826535880,
       "saves": 0,
       "cheers": 0,
@@ -755,9 +755,9 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 50,
+      "cheers": 51,
       "lastSave": null,
-      "lastCheer": 1788201274393,
+      "lastCheer": 1788201906576,
       "firstBloods": 21
     },
     "black_bulllet": {
@@ -1916,8 +1916,8 @@
       "womps": 0,
       "lastWomp": null,
       "addedAt": 1787700271095,
-      "cheers": 8,
-      "lastCheer": 1788201284763,
+      "cheers": 9,
+      "lastCheer": 1788201911627,
       "saves": 0,
       "firstBloods": 1,
       "lastSave": null
@@ -5755,6 +5755,42 @@
     {
       "t": 1788201289679,
       "key": "kamekairos",
+      "delta": 1
+    },
+    {
+      "t": 1788201900160,
+      "key": "tragedymichael",
+      "cheer": true,
+      "moment": 1788201900160,
+      "first": true
+    },
+    {
+      "t": 1788201900743,
+      "key": "rufusthetramp",
+      "cheer": true,
+      "moment": 1788201900160
+    },
+    {
+      "t": 1788201904301,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1788201900160
+    },
+    {
+      "t": 1788201906576,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1788201900160
+    },
+    {
+      "t": 1788201911627,
+      "key": "t0rnadica",
+      "cheer": true,
+      "moment": 1788201900160
+    },
+    {
+      "t": 1788201944860,
+      "key": "mr_denn_presents",
       "delta": 1
     }
   ]
