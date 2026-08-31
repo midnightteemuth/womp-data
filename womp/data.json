@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1788201951705,
+  "publishedAt": 1788202499153,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 635,
+  "sourceLogLength": 644,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -55,9 +55,9 @@
       "lastWomp": 1787414576965,
       "addedAt": 1785826534895,
       "saves": 0,
-      "cheers": 26,
+      "cheers": 27,
       "lastSave": null,
-      "lastCheer": 1788201007270,
+      "lastCheer": 1788202394406,
       "firstBloods": 1
     },
     "djxclassyissue": {
@@ -83,9 +83,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 3,
       "lastSave": null,
-      "lastCheer": 1788201900743,
+      "lastCheer": 1788202396580,
       "firstBloods": 0
     },
     "quinnstarmedia": {
@@ -279,9 +279,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 17,
+      "cheers": 18,
       "lastSave": null,
-      "lastCheer": 1788201904301,
+      "lastCheer": 1788202392562,
       "firstBloods": 0
     },
     "deathbyastaplegun": {
@@ -405,9 +405,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 55,
+      "cheers": 56,
       "lastSave": null,
-      "lastCheer": 1788200866330,
+      "lastCheer": 1788202402931,
       "firstBloods": 11
     },
     "izzyd3adyet": {
@@ -755,10 +755,10 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 51,
+      "cheers": 52,
       "lastSave": null,
-      "lastCheer": 1788201906576,
-      "firstBloods": 21
+      "lastCheer": 1788202388596,
+      "firstBloods": 22
     },
     "black_bulllet": {
       "id": "1399823548",
@@ -979,9 +979,9 @@
       "lastWomp": null,
       "addedAt": 1785826536417,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1788197076635,
+      "lastCheer": 1788202410857,
       "firstBloods": 0
     },
     "sesinya": {
@@ -1502,6 +1502,20 @@
       "lastCheer": 1788187770809,
       "firstBloods": 1
     },
+    "grindplaylists": {
+      "id": "1210096027",
+      "login": "grindplaylists",
+      "display": "grindplaylists",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fb218c0-9a6e-4865-8d2d-7c530938b974-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1788202401530,
+      "addedAt": 1785826537232,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
     "money_man_simon": {
       "id": "463583575",
       "login": "money_man_simon",
@@ -1916,8 +1930,8 @@
       "womps": 0,
       "lastWomp": null,
       "addedAt": 1787700271095,
-      "cheers": 9,
-      "lastCheer": 1788201911627,
+      "cheers": 10,
+      "lastCheer": 1788202391984,
       "saves": 0,
       "firstBloods": 1,
       "lastSave": null
@@ -1945,8 +1959,8 @@
       "lastWomp": null,
       "saves": 0,
       "lastSave": null,
-      "cheers": 7,
-      "lastCheer": 1788198304915,
+      "cheers": 8,
+      "lastCheer": 1788202404693,
       "firstBloods": 1,
       "addedAt": 1788023700246
     },
@@ -5792,6 +5806,60 @@
       "t": 1788201944860,
       "key": "mr_denn_presents",
       "delta": 1
+    },
+    {
+      "t": 1788202388596,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1788202388596,
+      "first": true
+    },
+    {
+      "t": 1788202391984,
+      "key": "t0rnadica",
+      "cheer": true,
+      "moment": 1788202388596
+    },
+    {
+      "t": 1788202392562,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1788202388596
+    },
+    {
+      "t": 1788202394406,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1788202388596
+    },
+    {
+      "t": 1788202396580,
+      "key": "rufusthetramp",
+      "cheer": true,
+      "moment": 1788202388596
+    },
+    {
+      "t": 1788202401530,
+      "key": "grindplaylists",
+      "delta": 1
+    },
+    {
+      "t": 1788202402931,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1788202388596
+    },
+    {
+      "t": 1788202404693,
+      "key": "ghost_o_x",
+      "cheer": true,
+      "moment": 1788202388596
+    },
+    {
+      "t": 1788202410857,
+      "key": "raging_raven_music",
+      "cheer": true,
+      "moment": 1788202388596
     }
   ]
 }
