@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1788202499153,
+  "publishedAt": 1788205585749,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 644,
+  "sourceLogLength": 668,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -55,9 +55,9 @@
       "lastWomp": 1787414576965,
       "addedAt": 1785826534895,
       "saves": 0,
-      "cheers": 27,
+      "cheers": 28,
       "lastSave": null,
-      "lastCheer": 1788202394406,
+      "lastCheer": 1788203828483,
       "firstBloods": 1
     },
     "djxclassyissue": {
@@ -83,9 +83,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 3,
+      "cheers": 5,
       "lastSave": null,
-      "lastCheer": 1788202396580,
+      "lastCheer": 1788205542007,
       "firstBloods": 0
     },
     "quinnstarmedia": {
@@ -275,13 +275,13 @@
       "login": "merc_with_the_code",
       "display": "merc_with_the_code",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2a6804b-7361-4a89-90fd-ccad8f9c2813-profile_image-300x300.png",
-      "womps": 0,
-      "lastWomp": null,
+      "womps": 1,
+      "lastWomp": 1788205576195,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 18,
+      "cheers": 21,
       "lastSave": null,
-      "lastCheer": 1788202392562,
+      "lastCheer": 1788204946074,
       "firstBloods": 0
     },
     "deathbyastaplegun": {
@@ -405,9 +405,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 56,
+      "cheers": 57,
       "lastSave": null,
-      "lastCheer": 1788202402931,
+      "lastCheer": 1788203822455,
       "firstBloods": 11
     },
     "izzyd3adyet": {
@@ -489,9 +489,9 @@
       "lastWomp": null,
       "addedAt": 1785826535549,
       "saves": 0,
-      "cheers": 10,
+      "cheers": 11,
       "lastSave": null,
-      "lastCheer": 1788198301792,
+      "lastCheer": 1788205565303,
       "firstBloods": 1
     },
     "fallenangelaimusic": {
@@ -755,10 +755,10 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 52,
+      "cheers": 56,
       "lastSave": null,
-      "lastCheer": 1788202388596,
-      "firstBloods": 22
+      "lastCheer": 1788205538111,
+      "firstBloods": 23
     },
     "black_bulllet": {
       "id": "1399823548",
@@ -867,10 +867,10 @@
       "lastWomp": 1786842736834,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 3,
+      "cheers": 6,
       "lastSave": null,
-      "lastCheer": 1788201287950,
-      "firstBloods": 0
+      "lastCheer": 1788205559542,
+      "firstBloods": 2
     },
     "thejjshowai": {
       "id": "1417228510",
@@ -979,9 +979,9 @@
       "lastWomp": null,
       "addedAt": 1785826536417,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 3,
       "lastSave": null,
-      "lastCheer": 1788202410857,
+      "lastCheer": 1788204487170,
       "firstBloods": 0
     },
     "sesinya": {
@@ -1623,10 +1623,10 @@
       "lastWomp": null,
       "addedAt": 1785826537548,
       "saves": 0,
-      "cheers": 4,
+      "cheers": 7,
       "lastSave": null,
-      "lastCheer": 1788194946615,
-      "firstBloods": 1
+      "lastCheer": 1788205536548,
+      "firstBloods": 2
     },
     "d_normous": {
       "id": "499594919",
@@ -1679,9 +1679,9 @@
       "lastWomp": null,
       "addedAt": 1785826537548,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1788187308005,
+      "lastCheer": 1788204935703,
       "firstBloods": 0
     },
     "gabi974": {
@@ -1739,6 +1739,20 @@
       "lastSave": null,
       "lastCheer": 1786067549984,
       "firstBloods": 1
+    },
+    "heymow": {
+      "id": "51493185",
+      "login": "heymow",
+      "display": "Heymow",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/341a4724-1154-418f-927f-a6730d799215-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1788204941864,
+      "addedAt": 1785826537748,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1788202560312,
+      "firstBloods": 0
     },
     "rachey13x": {
       "id": "86565648",
@@ -1969,8 +1983,8 @@
       "login": "majorvibes01",
       "display": "majorvibes01",
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png",
-      "womps": 0,
-      "lastWomp": null,
+      "womps": 1,
+      "lastWomp": 1788203829689,
       "addedAt": 1788034269612,
       "saves": 0,
       "cheers": 1,
@@ -5860,6 +5874,151 @@
       "key": "raging_raven_music",
       "cheer": true,
       "moment": 1788202388596
+    },
+    {
+      "t": 1788202560312,
+      "key": "heymow",
+      "cheer": true,
+      "moment": 1788202388596
+    },
+    {
+      "t": 1788203822203,
+      "key": "di11matic",
+      "cheer": true,
+      "moment": 1788203822203,
+      "first": true
+    },
+    {
+      "t": 1788203822455,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1788203822203
+    },
+    {
+      "t": 1788203824432,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1788203822203
+    },
+    {
+      "t": 1788203828483,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1788203822203
+    },
+    {
+      "t": 1788203829689,
+      "key": "majorvibes01",
+      "delta": 1
+    },
+    {
+      "t": 1788203829938,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1788203822203
+    },
+    {
+      "t": 1788204461407,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1788204461407,
+      "first": true
+    },
+    {
+      "t": 1788204468065,
+      "key": "exidiousmusic",
+      "cheer": true,
+      "moment": 1788204461407
+    },
+    {
+      "t": 1788204468403,
+      "key": "rufusthetramp",
+      "cheer": true,
+      "moment": 1788204461407
+    },
+    {
+      "t": 1788204473557,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1788204461407
+    },
+    {
+      "t": 1788204487170,
+      "key": "raging_raven_music",
+      "cheer": true,
+      "moment": 1788204461407
+    },
+    {
+      "t": 1788204926562,
+      "key": "di11matic",
+      "cheer": true,
+      "moment": 1788204926562,
+      "first": true
+    },
+    {
+      "t": 1788204926913,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1788204926562
+    },
+    {
+      "t": 1788204927707,
+      "key": "exidiousmusic",
+      "cheer": true,
+      "moment": 1788204926562
+    },
+    {
+      "t": 1788204935703,
+      "key": "punkravenmusic",
+      "cheer": true,
+      "moment": 1788204926562
+    },
+    {
+      "t": 1788204941864,
+      "key": "heymow",
+      "delta": 1
+    },
+    {
+      "t": 1788204946074,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1788204926562
+    },
+    {
+      "t": 1788205536548,
+      "key": "exidiousmusic",
+      "cheer": true,
+      "moment": 1788205536548,
+      "first": true
+    },
+    {
+      "t": 1788205538111,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1788205536548
+    },
+    {
+      "t": 1788205542007,
+      "key": "rufusthetramp",
+      "cheer": true,
+      "moment": 1788205536548
+    },
+    {
+      "t": 1788205559542,
+      "key": "di11matic",
+      "cheer": true,
+      "moment": 1788205536548
+    },
+    {
+      "t": 1788205565303,
+      "key": "d_uelnature",
+      "cheer": true,
+      "moment": 1788205536548
+    },
+    {
+      "t": 1788205576195,
+      "key": "merc_with_the_code",
+      "delta": 1
     }
   ]
 }
