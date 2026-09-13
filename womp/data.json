@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1788207642482,
+  "publishedAt": 1789343305719,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 695,
+  "sourceLogLength": 696,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -471,8 +471,8 @@
       "login": "childrenoftheaftermath",
       "display": "childrenoftheaftermath",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/976acae8-f349-4b04-a6cd-4f593d853f12-profile_image-300x300.jpeg",
-      "womps": 1,
-      "lastWomp": 1786828127681,
+      "womps": 2,
+      "lastWomp": 1789343298086,
       "addedAt": 1785826535549,
       "saves": 0,
       "cheers": 0,
@@ -6182,6 +6182,11 @@
     {
       "t": 1788207626544,
       "key": "ghost_o_x",
+      "delta": 1
+    },
+    {
+      "t": 1789343298086,
+      "key": "childrenoftheaftermath",
       "delta": 1
     }
   ]
