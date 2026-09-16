@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1789535740074,
+  "publishedAt": 1789537455003,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 769,
+  "sourceLogLength": 774,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -657,10 +657,10 @@
       "lastWomp": 1787419303715,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 46,
+      "cheers": 47,
       "lastSave": null,
-      "lastCheer": 1789535721180,
-      "firstBloods": 27
+      "lastCheer": 1789537387175,
+      "firstBloods": 28
     },
     "mycosynthmusic": {
       "id": "1448585487",
@@ -909,9 +909,9 @@
       "lastWomp": null,
       "addedAt": 1785826536088,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1789531972534,
+      "lastCheer": 1789535742396,
       "firstBloods": 0
     },
     "arystina": {
@@ -975,8 +975,8 @@
       "login": "ambrosemetal",
       "display": "AmbroseMetal",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/28525d8e-30d5-4bba-b5d0-f91b8188e722-profile_image-300x300.png",
-      "womps": 0,
-      "lastWomp": null,
+      "womps": 1,
+      "lastWomp": 1789537404221,
       "addedAt": 1785826536417,
       "saves": 0,
       "cheers": 2,
@@ -1147,9 +1147,9 @@
       "lastWomp": null,
       "addedAt": 1785826536622,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1789530379199,
+      "lastCheer": 1789537396922,
       "firstBloods": 0
     },
     "cabears": {
@@ -2028,8 +2028,8 @@
       "womps": 0,
       "lastWomp": null,
       "addedAt": 1787700271095,
-      "cheers": 15,
-      "lastCheer": 1789535724548,
+      "cheers": 16,
+      "lastCheer": 1789537391315,
       "saves": 0,
       "firstBloods": 1,
       "lastSave": null
@@ -6728,6 +6728,36 @@
     {
       "t": 1789535733109,
       "key": "graveilband",
+      "delta": 1
+    },
+    {
+      "t": 1789535742396,
+      "key": "fervex_83",
+      "cheer": true,
+      "moment": 1789535714877
+    },
+    {
+      "t": 1789537387175,
+      "key": "nebelheim",
+      "cheer": true,
+      "moment": 1789537387175,
+      "first": true
+    },
+    {
+      "t": 1789537391315,
+      "key": "t0rnadica",
+      "cheer": true,
+      "moment": 1789537387175
+    },
+    {
+      "t": 1789537396922,
+      "key": "neutron_star_lord",
+      "cheer": true,
+      "moment": 1789537387175
+    },
+    {
+      "t": 1789537404221,
+      "key": "ambrosemetal",
       "delta": 1
     }
   ]
