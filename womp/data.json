@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1789833586276,
+  "publishedAt": 1789838825324,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 787,
+  "sourceLogLength": 805,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -13,9 +13,9 @@
       "lastWomp": null,
       "addedAt": 1785826534895,
       "saves": 0,
-      "cheers": 11,
+      "cheers": 12,
       "lastSave": null,
-      "lastCheer": 1789531958259,
+      "lastCheer": 1789837475144,
       "firstBloods": 1
     },
     "thegoldennadeyt": {
@@ -405,10 +405,10 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 66,
+      "cheers": 69,
       "lastSave": null,
-      "lastCheer": 1789833557093,
-      "firstBloods": 12
+      "lastCheer": 1789838704429,
+      "firstBloods": 15
     },
     "izzyd3adyet": {
       "id": "959117250",
@@ -601,9 +601,9 @@
       "lastWomp": 1787119016217,
       "addedAt": 1785826535549,
       "saves": 0,
-      "cheers": 0,
+      "cheers": 1,
       "lastSave": null,
-      "lastCheer": null,
+      "lastCheer": 1789838785770,
       "firstBloods": 0
     },
     "oakwood_the_stranger": {
@@ -755,9 +755,9 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 74,
+      "cheers": 77,
       "lastSave": null,
-      "lastCheer": 1789833540836,
+      "lastCheer": 1789838713533,
       "firstBloods": 30
     },
     "black_bulllet": {
@@ -881,9 +881,9 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1789833554482,
+      "lastCheer": 1789838708897,
       "firstBloods": 0
     },
     "thejjshowai": {
@@ -926,6 +926,20 @@
       "cheers": 2,
       "lastSave": null,
       "lastCheer": 1789535742396,
+      "firstBloods": 0
+    },
+    "techcowgirl": {
+      "id": "146443606",
+      "login": "techcowgirl",
+      "display": "Techcowgirl",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dca83a1d-76b2-4711-a705-967120f68ef4-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1789836009805,
+      "addedAt": 1785826536088,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
       "firstBloods": 0
     },
     "arystina": {
@@ -1035,9 +1049,9 @@
       "lastWomp": 1785914724040,
       "addedAt": 1785826536417,
       "saves": 0,
-      "cheers": 6,
+      "cheers": 9,
       "lastSave": null,
-      "lastCheer": 1789833544553,
+      "lastCheer": 1789838799966,
       "firstBloods": 0
     },
     "raging_raven_music": {
@@ -1179,6 +1193,20 @@
       "lastSave": null,
       "lastCheer": 1787720443770,
       "firstBloods": 3
+    },
+    "alicetanner25": {
+      "id": "1377457165",
+      "login": "alicetanner25",
+      "display": "alicetanner25",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1789838813787,
+      "addedAt": 1785826536622,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
     },
     "jelleebeen": {
       "id": "31336901",
@@ -1586,6 +1614,20 @@
       "lastCheer": null,
       "firstBloods": 0
     },
+    "a_shadow_from_the_tomb": {
+      "id": "445319331",
+      "login": "a_shadow_from_the_tomb",
+      "display": "a_shadow_from_the_tomb",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c73fa77-72cd-4e37-b0de-89178cd7426c-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1789838756584,
+      "addedAt": 1785826537232,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
     "alecanque": {
       "id": "206642416",
       "login": "alecanque",
@@ -1665,9 +1707,9 @@
       "lastWomp": null,
       "addedAt": 1785826537548,
       "saves": 0,
-      "cheers": 17,
+      "cheers": 18,
       "lastSave": null,
-      "lastCheer": 1789833541050,
+      "lastCheer": 1789838740336,
       "firstBloods": 2
     },
     "diggermc": {
@@ -1805,9 +1847,9 @@
       "lastWomp": null,
       "addedAt": 1785826537748,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1788187303565,
+      "lastCheer": 1789838737328,
       "firstBloods": 0
     },
     "axiwarrior": {
@@ -1941,8 +1983,8 @@
       "login": "panikstate",
       "display": "PANIKSTATE",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14ad2862-5fdb-4cee-9d3a-095cbb191dc8-profile_image-300x300.png",
-      "womps": 1,
-      "lastWomp": 1789833572295,
+      "womps": 2,
+      "lastWomp": 1789837492089,
       "addedAt": 1786499455093,
       "saves": 0,
       "cheers": 0,
@@ -6879,6 +6921,113 @@
     {
       "t": 1789833572295,
       "key": "panikstate",
+      "delta": 1
+    },
+    {
+      "t": 1789836009805,
+      "key": "techcowgirl",
+      "delta": 1
+    },
+    {
+      "t": 1789835955940,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1789835829805,
+      "first": true
+    },
+    {
+      "t": 1789836005721,
+      "key": "aerik_18170",
+      "cheer": true,
+      "moment": 1789835829805
+    },
+    {
+      "t": 1789836010136,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1789835829805
+    },
+    {
+      "t": 1789837473193,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1789837473193,
+      "first": true
+    },
+    {
+      "t": 1789837475144,
+      "key": "okarismatic",
+      "cheer": true,
+      "moment": 1789837473193
+    },
+    {
+      "t": 1789837484866,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1789837473193
+    },
+    {
+      "t": 1789837492089,
+      "key": "panikstate",
+      "delta": 1
+    },
+    {
+      "t": 1789837493700,
+      "key": "aerik_18170",
+      "cheer": true,
+      "moment": 1789837473193
+    },
+    {
+      "t": 1789838704429,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1789838704429,
+      "first": true
+    },
+    {
+      "t": 1789838708897,
+      "key": "westcoastbrothersstrange",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838713533,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838737328,
+      "key": "joshuasodilofficial",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838740336,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838756584,
+      "key": "a_shadow_from_the_tomb",
+      "delta": 1
+    },
+    {
+      "t": 1789838785770,
+      "key": "brokenwagon",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838799966,
+      "key": "aerik_18170",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838813787,
+      "key": "alicetanner25",
       "delta": 1
     }
   ]
