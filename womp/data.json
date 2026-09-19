@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1789838825324,
+  "publishedAt": 1789838982811,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 805,
+  "sourceLogLength": 814,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -494,6 +494,20 @@
       "lastCheer": 1789531975525,
       "firstBloods": 1
     },
+    "tashaclarkemusic": {
+      "id": "1482847392",
+      "login": "tashaclarkemusic",
+      "display": "tashaclarkemusic",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1785826535549,
+      "saves": 0,
+      "cheers": 1,
+      "lastSave": null,
+      "lastCheer": 1789838864703,
+      "firstBloods": 0
+    },
     "fallenangelaimusic": {
       "id": "1390339783",
       "login": "fallenangelaimusic",
@@ -545,9 +559,9 @@
       "lastWomp": null,
       "addedAt": 1785826535549,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 3,
       "lastSave": null,
-      "lastCheer": 1789827391999,
+      "lastCheer": 1789838864554,
       "firstBloods": 0
     },
     "cheddarmunky": {
@@ -1021,9 +1035,9 @@
       "lastWomp": null,
       "addedAt": 1785826536417,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1789351716277,
+      "lastCheer": 1789838883790,
       "firstBloods": 0
     },
     "lunamkel": {
@@ -1175,9 +1189,9 @@
       "lastWomp": null,
       "addedAt": 1785826536622,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 3,
       "lastSave": null,
-      "lastCheer": 1789537396922,
+      "lastCheer": 1789838929268,
       "firstBloods": 0
     },
     "cabears": {
@@ -1469,9 +1483,9 @@
       "lastWomp": null,
       "addedAt": 1785826537029,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 3,
       "lastSave": null,
-      "lastCheer": 1788198450045,
+      "lastCheer": 1789838839296,
       "firstBloods": 0
     },
     "steve_aka_bobbin_mcferry": {
@@ -2015,10 +2029,10 @@
       "lastWomp": null,
       "addedAt": 1786499455093,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "firstBloods": 0,
       "lastSave": null,
-      "lastCheer": 1787425105758
+      "lastCheer": 1789838979518
     },
     "regtable": {
       "id": "107348615",
@@ -2112,8 +2126,8 @@
       "womps": 0,
       "lastWomp": null,
       "addedAt": 1787700271095,
-      "cheers": 16,
-      "lastCheer": 1789537391315,
+      "cheers": 17,
+      "lastCheer": 1789838879494,
       "saves": 0,
       "firstBloods": 1,
       "lastSave": null
@@ -2151,8 +2165,8 @@
       "login": "majorvibes01",
       "display": "majorvibes01",
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png",
-      "womps": 3,
-      "lastWomp": 1789532047688,
+      "womps": 4,
+      "lastWomp": 1789838869411,
       "addedAt": 1788034269612,
       "saves": 0,
       "cheers": 2,
@@ -2173,6 +2187,20 @@
       "lastCheer": 1789347482641,
       "firstBloods": 0,
       "addedAt": 1789345511570
+    },
+    "kreaptiq": {
+      "id": "670769645",
+      "login": "kreaptiq",
+      "display": "Kreaptiq",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/622e3b6c-f3e9-4286-857d-7e7e156b9b00-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "saves": 0,
+      "lastSave": null,
+      "cheers": 1,
+      "lastCheer": 1789838922119,
+      "firstBloods": 0,
+      "addedAt": 1789838922119
     }
   },
   "log": [
@@ -7029,6 +7057,59 @@
       "t": 1789838813787,
       "key": "alicetanner25",
       "delta": 1
+    },
+    {
+      "t": 1789838839296,
+      "key": "mybrightestside",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838864554,
+      "key": "real_damp",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838864703,
+      "key": "tashaclarkemusic",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838869411,
+      "key": "majorvibes01",
+      "delta": 1
+    },
+    {
+      "t": 1789838879494,
+      "key": "t0rnadica",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838883790,
+      "key": "lucidelusions",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838922119,
+      "key": "kreaptiq",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838929268,
+      "key": "neutron_star_lord",
+      "cheer": true,
+      "moment": 1789838704429
+    },
+    {
+      "t": 1789838979518,
+      "key": "zero___________2026",
+      "cheer": true,
+      "moment": 1789838704429
     }
   ]
 }
