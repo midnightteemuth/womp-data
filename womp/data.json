@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1789844803519,
+  "publishedAt": 1790125208520,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 832,
+  "sourceLogLength": 849,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -405,9 +405,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 71,
+      "cheers": 72,
       "lastSave": null,
-      "lastCheer": 1789844763741,
+      "lastCheer": 1789845340735,
       "firstBloods": 16
     },
     "izzyd3adyet": {
@@ -485,13 +485,13 @@
       "login": "d_uelnature",
       "display": "D_uelNature",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5101146d-69dc-4b34-83d6-81c31d2ed4bb-profile_image-300x300.png",
-      "womps": 0,
-      "lastWomp": null,
+      "womps": 2,
+      "lastWomp": 1790125200510,
       "addedAt": 1785826535549,
       "saves": 0,
-      "cheers": 17,
+      "cheers": 18,
       "lastSave": null,
-      "lastCheer": 1789843014337,
+      "lastCheer": 1789848330306,
       "firstBloods": 1
     },
     "tashaclarkemusic": {
@@ -611,8 +611,8 @@
       "login": "brokenwagon",
       "display": "brokenwagon",
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png",
-      "womps": 1,
-      "lastWomp": 1787119016217,
+      "womps": 2,
+      "lastWomp": 1789847367333,
       "addedAt": 1785826535549,
       "saves": 0,
       "cheers": 1,
@@ -769,10 +769,10 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 79,
+      "cheers": 82,
       "lastSave": null,
-      "lastCheer": 1789844766331,
-      "firstBloods": 30
+      "lastCheer": 1789848268749,
+      "firstBloods": 32
     },
     "black_bulllet": {
       "id": "1399823548",
@@ -853,9 +853,9 @@
       "lastWomp": 1787427968154,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 6,
+      "cheers": 7,
       "lastSave": null,
-      "lastCheer": 1787722744787,
+      "lastCheer": 1789848314075,
       "firstBloods": 0
     },
     "deciduouszeus": {
@@ -1063,9 +1063,9 @@
       "lastWomp": 1785914724040,
       "addedAt": 1785826536417,
       "saves": 0,
-      "cheers": 11,
+      "cheers": 12,
       "lastSave": null,
-      "lastCheer": 1789844769348,
+      "lastCheer": 1789845305419,
       "firstBloods": 1
     },
     "raging_raven_music": {
@@ -1721,9 +1721,9 @@
       "lastWomp": null,
       "addedAt": 1785826537548,
       "saves": 0,
-      "cheers": 20,
+      "cheers": 23,
       "lastSave": null,
-      "lastCheer": 1789844776543,
+      "lastCheer": 1789848271524,
       "firstBloods": 2
     },
     "diggermc": {
@@ -1917,9 +1917,9 @@
       "lastWomp": null,
       "addedAt": 1785826537748,
       "saves": 0,
-      "cheers": 3,
+      "cheers": 4,
       "lastSave": null,
-      "lastCheer": 1789842966025,
+      "lastCheer": 1789844875781,
       "firstBloods": 1
     },
     "splust1": {
@@ -1987,10 +1987,10 @@
       "lastWomp": null,
       "addedAt": 1786227858947,
       "saves": 0,
-      "cheers": 6,
+      "cheers": 7,
       "firstBloods": 0,
       "lastSave": null,
-      "lastCheer": 1789843011501
+      "lastCheer": 1789847376834
     },
     "panikstate": {
       "id": "1526441621",
@@ -2126,8 +2126,8 @@
       "womps": 0,
       "lastWomp": null,
       "addedAt": 1787700271095,
-      "cheers": 19,
-      "lastCheer": 1789844790384,
+      "cheers": 20,
+      "lastCheer": 1789845407727,
       "saves": 0,
       "firstBloods": 1,
       "lastSave": null
@@ -2197,9 +2197,9 @@
       "lastWomp": null,
       "saves": 0,
       "lastSave": null,
-      "cheers": 2,
-      "lastCheer": 1789842952506,
-      "firstBloods": 0,
+      "cheers": 3,
+      "lastCheer": 1789845258895,
+      "firstBloods": 1,
       "addedAt": 1789838922119
     }
   },
@@ -7218,6 +7218,108 @@
       "key": "t0rnadica",
       "cheer": true,
       "moment": 1789844763741
+    },
+    {
+      "t": 1789844875781,
+      "key": "rachey13x",
+      "cheer": true,
+      "moment": 1789844763741
+    },
+    {
+      "t": 1789845258895,
+      "key": "kreaptiq",
+      "cheer": true,
+      "moment": 1789845258895,
+      "first": true
+    },
+    {
+      "t": 1789845265196,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1789845258895
+    },
+    {
+      "t": 1789845305419,
+      "key": "aerik_18170",
+      "cheer": true,
+      "moment": 1789845258895
+    },
+    {
+      "t": 1789845324006,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1789845258895
+    },
+    {
+      "t": 1789845340735,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1789845258895
+    },
+    {
+      "t": 1789845407727,
+      "key": "t0rnadica",
+      "cheer": true,
+      "moment": 1789845258895
+    },
+    {
+      "t": 1789847367333,
+      "key": "brokenwagon",
+      "delta": 1
+    },
+    {
+      "t": 1789847364115,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1789847187333,
+      "first": true
+    },
+    {
+      "t": 1789847376834,
+      "key": "mindcrime_",
+      "cheer": true,
+      "moment": 1789847187333
+    },
+    {
+      "t": 1789847383525,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1789847187333
+    },
+    {
+      "t": 1789848289726,
+      "key": "d_uelnature",
+      "delta": 1
+    },
+    {
+      "t": 1789848268749,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1789848109726,
+      "first": true
+    },
+    {
+      "t": 1789848271524,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1789848109726
+    },
+    {
+      "t": 1789848314075,
+      "key": "rodmachismo",
+      "cheer": true,
+      "moment": 1789848109726
+    },
+    {
+      "t": 1789848330306,
+      "key": "d_uelnature",
+      "cheer": true,
+      "moment": 1789848109726
+    },
+    {
+      "t": 1790125200510,
+      "key": "d_uelnature",
+      "delta": 1
     }
   ]
 }
