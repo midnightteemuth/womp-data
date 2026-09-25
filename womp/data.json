@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1790137067366,
+  "publishedAt": 1790316421449,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 932,
+  "sourceLogLength": 959,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -55,10 +55,10 @@
       "lastWomp": 1787414576965,
       "addedAt": 1785826534895,
       "saves": 0,
-      "cheers": 36,
+      "cheers": 40,
       "lastSave": null,
-      "lastCheer": 1790137032896,
-      "firstBloods": 2
+      "lastCheer": 1790315652942,
+      "firstBloods": 3
     },
     "djxclassyissue": {
       "id": "526401596",
@@ -111,9 +111,9 @@
       "lastWomp": null,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 2,
+      "cheers": 3,
       "lastSave": null,
-      "lastCheer": 1788197124712,
+      "lastCheer": 1790312195685,
       "firstBloods": 0
     },
     "rinraccoon_": {
@@ -209,9 +209,9 @@
       "lastWomp": 1786500275987,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 6,
+      "cheers": 7,
       "lastSave": null,
-      "lastCheer": 1790136963359,
+      "lastCheer": 1790139770670,
       "firstBloods": 2
     },
     "greenloungerecords": {
@@ -405,9 +405,9 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 76,
+      "cheers": 79,
       "lastSave": null,
-      "lastCheer": 1790132536254,
+      "lastCheer": 1790315150156,
       "firstBloods": 16
     },
     "izzyd3adyet": {
@@ -615,9 +615,9 @@
       "lastWomp": 1790137061243,
       "addedAt": 1785826535549,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1789838785770,
+      "lastCheer": 1790315122734,
       "firstBloods": 0
     },
     "oakwood_the_stranger": {
@@ -671,10 +671,10 @@
       "lastWomp": 1787419303715,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 58,
+      "cheers": 60,
       "lastSave": null,
-      "lastCheer": 1790137034114,
-      "firstBloods": 35
+      "lastCheer": 1790139697625,
+      "firstBloods": 37
     },
     "mycosynthmusic": {
       "id": "1448585487",
@@ -769,10 +769,10 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 94,
+      "cheers": 97,
       "lastSave": null,
-      "lastCheer": 1790137026413,
-      "firstBloods": 34
+      "lastCheer": 1790315632417,
+      "firstBloods": 35
     },
     "black_bulllet": {
       "id": "1399823548",
@@ -839,9 +839,9 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1787114409078,
+      "lastCheer": 1790315659978,
       "firstBloods": 0
     },
     "rodmachismo": {
@@ -853,9 +853,9 @@
       "lastWomp": 1787427968154,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 9,
+      "cheers": 10,
       "lastSave": null,
-      "lastCheer": 1790137046219,
+      "lastCheer": 1790138030578,
       "firstBloods": 0
     },
     "deciduouszeus": {
@@ -1007,9 +1007,9 @@
       "lastWomp": null,
       "addedAt": 1785826536088,
       "saves": 0,
-      "cheers": 3,
+      "cheers": 4,
       "lastSave": null,
-      "lastCheer": 1790133867346,
+      "lastCheer": 1790139711258,
       "firstBloods": 1
     },
     "xaedthx": {
@@ -1031,8 +1031,8 @@
       "login": "ambrosemetal",
       "display": "AmbroseMetal",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/28525d8e-30d5-4bba-b5d0-f91b8188e722-profile_image-300x300.png",
-      "womps": 1,
-      "lastWomp": 1789537404221,
+      "womps": 2,
+      "lastWomp": 1790139720478,
       "addedAt": 1785826536417,
       "saves": 0,
       "cheers": 2,
@@ -1119,9 +1119,9 @@
       "lastWomp": null,
       "addedAt": 1785826536417,
       "saves": 0,
-      "cheers": 5,
+      "cheers": 6,
       "lastSave": null,
-      "lastCheer": 1790134698118,
+      "lastCheer": 1790137925207,
       "firstBloods": 0
     },
     "sesinya": {
@@ -1329,9 +1329,9 @@
       "lastWomp": 1786507292160,
       "addedAt": 1785826536622,
       "saves": 0,
-      "cheers": 0,
+      "cheers": 1,
       "lastSave": null,
-      "lastCheer": null,
+      "lastCheer": 1790315113174,
       "firstBloods": 0
     },
     "jrise245": {
@@ -1586,6 +1586,20 @@
       "lastCheer": 1785901359316,
       "firstBloods": 0
     },
+    "roythigpen": {
+      "id": "1349472873",
+      "login": "roythigpen",
+      "display": "RoyThigpen",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5262102b-16bb-44b2-998d-cbad0db2f7c1-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1790312213970,
+      "addedAt": 1785826537029,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
     "apositiveeffect": {
       "id": "778143227",
       "login": "apositiveeffect",
@@ -1623,9 +1637,9 @@
       "lastWomp": null,
       "addedAt": 1785826537029,
       "saves": 0,
-      "cheers": 1,
+      "cheers": 2,
       "lastSave": null,
-      "lastCheer": 1788020833285,
+      "lastCheer": 1790137925276,
       "firstBloods": 0
     },
     "shs_slayer": {
@@ -1763,10 +1777,10 @@
       "lastWomp": null,
       "addedAt": 1785826537548,
       "saves": 0,
-      "cheers": 28,
+      "cheers": 29,
       "lastSave": null,
-      "lastCheer": 1790131216989,
-      "firstBloods": 2
+      "lastCheer": 1790315074604,
+      "firstBloods": 3
     },
     "diggermc": {
       "id": "42103838",
@@ -2043,10 +2057,10 @@
       "lastWomp": 1790132547269,
       "addedAt": 1786227858947,
       "saves": 0,
-      "cheers": 12,
+      "cheers": 13,
       "firstBloods": 0,
       "lastSave": null,
-      "lastCheer": 1790137041225
+      "lastCheer": 1790137925725
     },
     "panikstate": {
       "id": "1526441621",
@@ -2216,6 +2230,20 @@
       "firstBloods": 1,
       "addedAt": 1788023700246
     },
+    "88_saxon_88": {
+      "id": "55361000",
+      "login": "88_saxon_88",
+      "display": "88_saxon_88",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ef98205-5eb2-4068-b6e3-93a818db0c67-profile_image-300x300.png",
+      "womps": 0,
+      "lastWomp": null,
+      "addedAt": 1788034269612,
+      "saves": 0,
+      "cheers": 1,
+      "firstBloods": 0,
+      "lastSave": null,
+      "lastCheer": 1790137146685
+    },
     "majorvibes01": {
       "id": "171639248",
       "login": "majorvibes01",
@@ -2229,6 +2257,20 @@
       "firstBloods": 0,
       "lastSave": null,
       "lastCheer": 1789827381767
+    },
+    "mangeeser": {
+      "id": "79701961",
+      "login": "mangeeser",
+      "display": "mangeeser",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b35a6857-2f77-4ead-a00c-adb0bbae69af-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1790139779218,
+      "addedAt": 1788034269612,
+      "saves": 0,
+      "cheers": 0,
+      "firstBloods": 0,
+      "lastSave": null,
+      "lastCheer": null
     },
     "hailander_aimv": {
       "id": "1497337844",
@@ -7895,6 +7937,170 @@
       "cheer": true,
       "moment": 1790136977693,
       "first": true
+    },
+    {
+      "t": 1790137146685,
+      "key": "88_saxon_88",
+      "cheer": true,
+      "moment": 1790136977693
+    },
+    {
+      "t": 1790137897037,
+      "key": "nebelheim",
+      "cheer": true,
+      "moment": 1790137897037,
+      "first": true
+    },
+    {
+      "t": 1790137897424,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1790137897037
+    },
+    {
+      "t": 1790137904669,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1790137897037
+    },
+    {
+      "t": 1790137904832,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1790137897037
+    },
+    {
+      "t": 1790137925207,
+      "key": "raging_raven_music",
+      "cheer": true,
+      "moment": 1790137897037
+    },
+    {
+      "t": 1790137925276,
+      "key": "tykoli",
+      "cheer": true,
+      "moment": 1790137897037
+    },
+    {
+      "t": 1790137925725,
+      "key": "mindcrime_",
+      "cheer": true,
+      "moment": 1790137897037
+    },
+    {
+      "t": 1790138030578,
+      "key": "rodmachismo",
+      "cheer": true,
+      "moment": 1790137897037
+    },
+    {
+      "t": 1790139697625,
+      "key": "nebelheim",
+      "cheer": true,
+      "moment": 1790139697625,
+      "first": true
+    },
+    {
+      "t": 1790139704038,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1790139697625
+    },
+    {
+      "t": 1790139711258,
+      "key": "blurredhours",
+      "cheer": true,
+      "moment": 1790139697625
+    },
+    {
+      "t": 1790139720478,
+      "key": "ambrosemetal",
+      "delta": 1
+    },
+    {
+      "t": 1790139725588,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1790139697625
+    },
+    {
+      "t": 1790139768771,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1790139697625
+    },
+    {
+      "t": 1790139770670,
+      "key": "annaannoula79",
+      "cheer": true,
+      "moment": 1790139697625
+    },
+    {
+      "t": 1790139779218,
+      "key": "mangeeser",
+      "delta": 1
+    },
+    {
+      "t": 1790312213970,
+      "key": "roythigpen",
+      "delta": 1
+    },
+    {
+      "t": 1790312192574,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1790312033970,
+      "first": true
+    },
+    {
+      "t": 1790312195685,
+      "key": "velkanera",
+      "cheer": true,
+      "moment": 1790312033970
+    },
+    {
+      "t": 1790315074604,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1790315074604,
+      "first": true
+    },
+    {
+      "t": 1790315113174,
+      "key": "mykingfalls",
+      "cheer": true,
+      "moment": 1790315074604
+    },
+    {
+      "t": 1790315122734,
+      "key": "brokenwagon",
+      "cheer": true,
+      "moment": 1790315074604
+    },
+    {
+      "t": 1790315150156,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1790315074604
+    },
+    {
+      "t": 1790315632417,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1790315632417,
+      "first": true
+    },
+    {
+      "t": 1790315652942,
+      "key": "evilunicornnymph",
+      "cheer": true,
+      "moment": 1790315632417
+    },
+    {
+      "t": 1790315659978,
+      "key": "sweetheartprowrestling",
+      "cheer": true,
+      "moment": 1790315632417
     }
   ]
 }
