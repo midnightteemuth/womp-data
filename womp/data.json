@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "publishedAt": 1790316421449,
+  "publishedAt": 1790448796449,
   "publishedBy": "midnighttee_",
-  "sourceLogLength": 959,
+  "sourceLogLength": 979,
   "players": {
     "okarismatic": {
       "id": "87574016",
@@ -279,9 +279,9 @@
       "lastWomp": 1788205576195,
       "addedAt": 1785826534896,
       "saves": 0,
-      "cheers": 27,
+      "cheers": 28,
       "lastSave": null,
-      "lastCheer": 1789521345795,
+      "lastCheer": 1790448784556,
       "firstBloods": 2
     },
     "deathbyastaplegun": {
@@ -335,9 +335,9 @@
       "lastWomp": 1787715371715,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 4,
+      "cheers": 5,
       "lastSave": null,
-      "lastCheer": 1787715506821,
+      "lastCheer": 1790444114585,
       "firstBloods": 0
     },
     "thebloodcopy": {
@@ -405,10 +405,10 @@
       "lastWomp": null,
       "addedAt": 1785826535343,
       "saves": 0,
-      "cheers": 79,
+      "cheers": 83,
       "lastSave": null,
-      "lastCheer": 1790315150156,
-      "firstBloods": 16
+      "lastCheer": 1790448033066,
+      "firstBloods": 17
     },
     "izzyd3adyet": {
       "id": "959117250",
@@ -489,10 +489,10 @@
       "lastWomp": 1790125200510,
       "addedAt": 1785826535549,
       "saves": 0,
-      "cheers": 21,
+      "cheers": 22,
       "lastSave": null,
-      "lastCheer": 1790133022720,
-      "firstBloods": 1
+      "lastCheer": 1790448031782,
+      "firstBloods": 2
     },
     "tashaclarkemusic": {
       "id": "1482847392",
@@ -671,10 +671,10 @@
       "lastWomp": 1787419303715,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 60,
+      "cheers": 61,
       "lastSave": null,
-      "lastCheer": 1790139697625,
-      "firstBloods": 37
+      "lastCheer": 1790445541303,
+      "firstBloods": 38
     },
     "mycosynthmusic": {
       "id": "1448585487",
@@ -769,10 +769,10 @@
       "lastWomp": null,
       "addedAt": 1785826535880,
       "saves": 0,
-      "cheers": 97,
+      "cheers": 102,
       "lastSave": null,
-      "lastCheer": 1790315632417,
-      "firstBloods": 35
+      "lastCheer": 1790448032582,
+      "firstBloods": 36
     },
     "black_bulllet": {
       "id": "1399823548",
@@ -1236,6 +1236,20 @@
       "lastCheer": 1789838929268,
       "firstBloods": 0
     },
+    "dissenter69": {
+      "id": "1326753488",
+      "login": "dissenter69",
+      "display": "dissenter69",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+      "womps": 1,
+      "lastWomp": 1790318883007,
+      "addedAt": 1785826536622,
+      "saves": 0,
+      "cheers": 0,
+      "lastSave": null,
+      "lastCheer": null,
+      "firstBloods": 0
+    },
     "cabears": {
       "id": "77304427",
       "login": "cabears",
@@ -1525,10 +1539,10 @@
       "lastWomp": null,
       "addedAt": 1785826537029,
       "saves": 0,
-      "cheers": 3,
+      "cheers": 4,
       "lastSave": null,
-      "lastCheer": 1789838839296,
-      "firstBloods": 0
+      "lastCheer": 1790448778250,
+      "firstBloods": 1
     },
     "steve_aka_bobbin_mcferry": {
       "id": "850347342",
@@ -1745,8 +1759,8 @@
       "login": "graveilband",
       "display": "graveilband",
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png",
-      "womps": 4,
-      "lastWomp": 1789535733109,
+      "womps": 5,
+      "lastWomp": 1790445566862,
       "addedAt": 1785826537232,
       "saves": 0,
       "cheers": 0,
@@ -1773,13 +1787,13 @@
       "login": "mezandriia",
       "display": "mezandriia",
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/320080d8-77e8-4ec9-a89b-627f59414379-profile_image-300x300.jpeg",
-      "womps": 0,
-      "lastWomp": null,
+      "womps": 1,
+      "lastWomp": 1790447029675,
       "addedAt": 1785826537548,
       "saves": 0,
-      "cheers": 29,
+      "cheers": 31,
       "lastSave": null,
-      "lastCheer": 1790315074604,
+      "lastCheer": 1790448784907,
       "firstBloods": 3
     },
     "diggermc": {
@@ -2295,9 +2309,9 @@
       "lastWomp": null,
       "saves": 0,
       "lastSave": null,
-      "cheers": 3,
-      "lastCheer": 1789845258895,
-      "firstBloods": 1,
+      "cheers": 4,
+      "lastCheer": 1790444100825,
+      "firstBloods": 2,
       "addedAt": 1789838922119
     },
     "jacquelinejoan0305": {
@@ -8101,6 +8115,129 @@
       "key": "sweetheartprowrestling",
       "cheer": true,
       "moment": 1790315632417
+    },
+    {
+      "t": 1790318883007,
+      "key": "dissenter69",
+      "delta": 1
+    },
+    {
+      "t": 1790318860570,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1790318703007,
+      "first": true
+    },
+    {
+      "t": 1790318877555,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1790318703007
+    },
+    {
+      "t": 1790444100825,
+      "key": "kreaptiq",
+      "cheer": true,
+      "moment": 1790444100825,
+      "first": true
+    },
+    {
+      "t": 1790444108837,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1790444100825
+    },
+    {
+      "t": 1790444110290,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1790444100825
+    },
+    {
+      "t": 1790444114585,
+      "key": "huntedgatherer",
+      "cheer": true,
+      "moment": 1790444100825
+    },
+    {
+      "t": 1790445541303,
+      "key": "nebelheim",
+      "cheer": true,
+      "moment": 1790445541303,
+      "first": true
+    },
+    {
+      "t": 1790445545026,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1790445541303
+    },
+    {
+      "t": 1790445545080,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1790445541303
+    },
+    {
+      "t": 1790445566862,
+      "key": "graveilband",
+      "delta": 1
+    },
+    {
+      "t": 1790447029675,
+      "key": "mezandriia",
+      "delta": 1
+    },
+    {
+      "t": 1790447006413,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1790446849675,
+      "first": true
+    },
+    {
+      "t": 1790447013745,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1790446849675
+    },
+    {
+      "t": 1790448031782,
+      "key": "d_uelnature",
+      "cheer": true,
+      "moment": 1790448031782,
+      "first": true
+    },
+    {
+      "t": 1790448032582,
+      "key": "mkrool",
+      "cheer": true,
+      "moment": 1790448031782
+    },
+    {
+      "t": 1790448033066,
+      "key": "mulds_tv",
+      "cheer": true,
+      "moment": 1790448031782
+    },
+    {
+      "t": 1790448778250,
+      "key": "mybrightestside",
+      "cheer": true,
+      "moment": 1790448778250,
+      "first": true
+    },
+    {
+      "t": 1790448784556,
+      "key": "merc_with_the_code",
+      "cheer": true,
+      "moment": 1790448778250
+    },
+    {
+      "t": 1790448784907,
+      "key": "mezandriia",
+      "cheer": true,
+      "moment": 1790448778250
     }
   ]
 }
